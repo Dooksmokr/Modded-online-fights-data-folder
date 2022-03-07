@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<X2mCostumeFile>
+    <!--This file is used by XV2 Mods Installer to track installed costumes. DON'T DELETE THIS FILE OR Xv2 Mods Installer won't be able to update/uninstall costumes properly.-->
+    <X2mCostumeEntry>
+        <GUID value="27851d16-ef4e-4c97-2c79-8aee543efb90" />
+        <PARTSETS value="535, 536, 537" />
+        <RACES value="0, 1" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="59cb4d8d-f6cf-cae0-6be3-72ea63cf7a15" />
+        <PARTSETS value="538" />
+        <RACES value="0" />
+        <IDB_ENTRIES value="0x14a, 0x14b, 0x14c, 0x14d" />
+        <COSTUME_TYPES value="0, 1, 2, 3" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="d5236d72-9270-404f-a494-95b528d64824" />
+        <PARTSETS value="539, 540, 541, 542, 543, 544, 545" />
+        <RACES value="0" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="934a6b53-1985-9b69-cb06-59a9b885ed92" />
+        <PARTSETS value="546, 547" />
+        <RACES value="0" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="498eb8c8-125b-99ef-dd93-2ea21a9b6662" />
+        <PARTSETS value="548, 549" />
+        <RACES value="0" />
+        <IDB_ENTRIES value="0x14e, 0x14f, 0x150, 0x151, 0x9f, 0x152, 0x153, 0x154, 0x155, 0xa0" />
+        <COSTUME_TYPES value="0, 1, 2, 3, 4, 0, 1, 2, 3, 4" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="6c0f7286-2735-fb57-4087-c706f4519058" />
+        <PARTSETS value="555" />
+        <RACES value="0" />
+        <IDB_ENTRIES value="0x156, 0x157, 0x158, 0x159" />
+        <COSTUME_TYPES value="0, 1, 2, 3" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="da146bcf-14d3-57df-16b6-ab17a32fa8a8" />
+        <PARTSETS value="556, 557, 558" />
+        <RACES value="0, 1" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="337687c6-3754-bcce-9a48-9744ca864cb9" />
+        <PARTSETS value="559" />
+        <RACES value="0" />
+    </X2mCostumeEntry>
+</X2mCostumeFile>

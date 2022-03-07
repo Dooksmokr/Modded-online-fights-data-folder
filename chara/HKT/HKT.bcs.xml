@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BCS has_signature="false">
+    <U_2C value="0x5" />
+    <F_30 value="1.26999998, 1.42913997, 0.769529998, 2.5, 0.75, 1.5, 0.0" />
+    <PartSet idx="0">
+        <Part idx="0">
+            <!--Face_base-->
+            <MODEL value="0" />
+            <MODEL2 value="0" />
+            <TEXTURE value="0" />
+            <U_10 value="0x0" />
+            <U_18 value="0x0" />
+            <U_1C value="0x0" />
+            <U_20 value="0x0" />
+            <F_24 value="0.0" />
+            <F_28 value="0.0" />
+            <U_2C value="0x0" />
+            <U_30 value="0x0" />
+            <NAME value="HKT" />
+            <!--MODEL, EMM, EMB, EAN-->
+            <FILES value="NULL, NULL, NULL, NULL" />
+        </Part>
+        <Part idx="1">
+            <!--Face_forehead-->
+            <!--This entry is empty.-->
+        </Part>
+        <Part idx="2">
+            <!--Face_eye-->
+            <MODEL value="0" />
+            <MODEL2 value="0" />
+            <TEXTURE value="0" />
+            <U_10 value="0x0" />
+            <U_18 value="0x0" />
+            <U_1C value="0x0" />
+            <U_20 value="0x0" />
+            <F_24 value="1.0" />
+            <F_28 value="1.0" />
+            <U_2C value="0x0" />
+            <U_30 value="0x0" />
+            <NAME value="HKT" />
+            <!--MODEL, EMM, EMB, EAN-->
+            <FILES value="NULL, NULL, NULL, NULL" />
+        </Part>
+        <Part idx="3">
+            <!--Face_nose-->
+            <!--This entry is empty.-->
+        </Part>
+        <Part idx="4">
+            <!--Face_ear-->
+            <!--This entry is empty.-->
+        </Part>
+        <Part idx="5">
+            <!--Hair-->
+            <!--This entry is empty.-->
+        </Part>
+        <Part idx="6">
+            <!--Bust-->
+            <MODEL value="0" />
+            <MODEL2 value="0" />
+            <TEXTURE value="0" />
+            <U_10 value="0x0" />
+            <U_18 value="0x0" />
+            <U_1C value="0x0" />
+            <U_20 value="0x0" />
+            <F_24 value="0.0" />
+            <F_28 value="0.0" />
+            <U_2C value="0x0" />
+            <U_30 value="0x0" />
+            <NAME value="HKT" />
+            <!--MODEL, EMM, EMB, EAN-->
+            <FILES value="NULL, NULL, NULL, NULL" />
+        </Part>
+        <Part idx="7">
+            <!--Pants-->
+            <MODEL value="0" />
+            <MODEL2 value="0" />
+            <TEXTURE value="0" />
+            <U_10 value="0x0" />
+            <U_18 value="0x0" />
+            <U_1C value="0x0" />
+            <U_20 value="0x0" />
+            <F_24 value="0.0" />
+            <F_28 value="0.0" />
+            <U_2C value="0x0" />
+            <U_30 value="0x0" />
+            <NAME value="HKT" />
+            <!--MODEL, EMM, EMB, EAN-->
+            <FILES value="NULL, NULL, NULL, NULL" />
+        </Part>
+        <Part idx="8">
+            <!--Rist-->
+            <MODEL value="0" />
+            <MODEL2 value="0" />
+            <TEXTURE value="0" />
+            <U_10 value="0x0" />
+            <U_18 value="0x0" />
+            <U_1C value="0x0" />
+            <U_20 value="0x0" />
+            <F_24 value="0.0" />
+            <F_28 value="0.0" />
+            <U_2C value="0x0" />
+            <U_30 value="0x0" />
+            <NAME value="HKT" />
+            <!--MODEL, EMM, EMB, EAN-->
+            <FILES value="NULL, NULL, NULL, NULL" />
+        </Part>
+        <Part idx="9">
+            <!--Boots-->
+            <MODEL value="0" />
+            <MODEL2 value="0" />
+            <TEXTURE value="0" />
+            <U_10 value="0x0" />
+            <U_18 value="0x0" />
+            <U_1C value="0x0" />
+            <U_20 value="0x0" />
+            <F_24 value="0.0" />
+            <F_28 value="0.0" />
+            <U_2C value="0x0" />
+            <U_30 value="0x0" />
+            <NAME value="HKT" />
+            <!--MODEL, EMM, EMB, EAN-->
+            <FILES value="NULL, NULL, NULL, NULL" />
+        </Part>
+    </PartSet>
+    <SkeletonData idx="0">
+        <!--This entry is empty.-->
+    </SkeletonData>
+</BCS>

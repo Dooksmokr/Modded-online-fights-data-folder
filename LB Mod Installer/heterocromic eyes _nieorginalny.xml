@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Heterocromic Eyes " Author="NieOrginalny" Version="1.0.0.31">
+    <Files>
+      <File FilePath="chara/HUM/HUM.bcs">
+        <Section FileSection="BCS_PartSets" IDs="207,208,209,210,211,212,213,169" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles>
+      <File FilePath="chara/HUM/HUM_HeterocromicRed_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRed_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRed_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRed_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRedBlue_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRedBlue_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRedBlue_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRedBlue_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRedOrangePupil_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRedOrangePupil_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRedOrangePupil_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_HeterocromicRedOrangePupil_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_HeterocromicBluePurplePupil_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicBluePurplePupil_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicBluePurplePupil_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_HeterocromicBluePurplePupil_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_HeterocromicBlueCianPupil_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicBlueCianPupil_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_HeterocromicBlueCianPupil_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_HeterocromicBlueCianPupil_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_RedOrangeHD_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_RedOrangeHD_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_RedOrangeHD_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_RedOrangeHD_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_000_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_BlackGoku_Face_base.emb" />
+      <File FilePath="chara/HUM/HUM_BlackGoku_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_BlackGoku_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_BlackGoku_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_BlackGoku_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_BlackGoku_Face_forehead.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_BlackGoku_Face_forehead.emb" />
+      <File FilePath="chara/HUM/HUM_BlackGoku_Face_forehead.emd" />
+      <File FilePath="chara/HUM/HUM_BlackGoku_Face_forehead.emm" />
+    </JungleFiles>
+  </Mod>
+</TrackingXml>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EEPK>
+  <Containers>
+    <Container Type="EMO">
+      <I_00 value="0x8" />
+      <I_04 value="0xff" />
+      <I_05 value="0xff" />
+      <I_06 value="0xff" />
+      <I_07 value="0xff" />
+      <I_08 value="0xffffffff" />
+      <I_12 value="0xffffffff" />
+      <Files values="NULL, NULL, NULL" />
+      <Container_Entry Index="0">
+        <UseLocalCopy value="False" />
+        <I_00 value="0" />
+        <Files values="Kih_Wav.emo, Kih_Wav.emm, Kih_Wav.emb, Kih_Wav.mat.ema, Kih_Wav.obj.ema" />
+      </Container_Entry>
+      <Container_Entry Index="1">
+        <UseLocalCopy value="False" />
+        <I_00 value="1" />
+        <Files values="Kih_Fire.emo, Kih_Fire.emm, Kih_Fire.emb, Kih_Fire.mat.ema, Kih_Fire.obj.ema" />
+      </Container_Entry>
+    </Container>
+    <Container Type="PBIND">
+      <I_00 value="0x10" />
+      <I_04 value="0x40" />
+      <I_05 value="0x0" />
+      <I_06 value="0x0" />
+      <I_07 value="0x0" />
+      <I_08 value="0x100" />
+      <I_12 value="0x100" />
+      <Files values="081_GHL_KIH.pbind.emb, 081_GHL_KIH.ptcl.emm, 081_GHL_KIH.ptcl.emb" />
+      <Container_Entry Index="0">
+        <UseLocalCopy value="False" />
+        <I_00 value="0" />
+        <Files values="Kih_Wave.emp, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+      <Container_Entry Index="1">
+        <UseLocalCopy value="False" />
+        <I_00 value="1" />
+        <Files values="Kih_Ring.emp, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+      <Container_Entry Index="2">
+        <UseLocalCopy value="False" />
+        <I_00 value="2" />
+        <Files values="Kih_LineAll.emp, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+    </Container>
+  </Containers>
+  <Effects>
+    <Effect ID="0" I_02="0">
+      <EffectPart Container_Type="EMO" Container_Index="0">
+        <StartTime Frames="0" />
+        <Placement value="OnBone" />
+        <RotateOnMovement value="1" />
+        <Deactivation Mode="Always" />
+        <I_06 value="2" />
+        <I_07 value="0" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+        <AvoidSphere Diameter="0.0" />
+        <AttachFlags MoveWithBone="False" RotateWithBone="False" InstantMoveAndRotate="False" OnGroundOnly="False" Unk4="False" />
+        <StartEffectPosition UseBoneDirection="False" UseBoneToCameraDirection="False" UseSceneCenterToBoneDirection="False" />
+        <I_34 value="0" />
+        <Flag_36 value="0x0" />
+        <Flag_38 a="0x0" b="0x0" />
+        <Flag_39 NoGlare="False" InverseTransparentDrawOrder="False" Unk1="False" Unk5="False" Unk6="False" />
+        <LinkFlags RelativePositionZ_To_AbsolutePositionZ="False" ScaleZ_To_BonePositionZ="False" ObjectOrientation_To_XXXX="False" />
+        <Position X="0.0" Y="0.0" Z="0.0" />
+        <Orientation_X Min="0.0" Max="0.0" />
+        <Orientation_Y Min="0.0" Max="0.0" />
+        <Orientation_Z Min="0.0" Max="0.0" />
+        <Scale Min="5.0" Max="5.0" />
+        <NearFadeDistance value="0.0" />
+        <FarFadeDistance value="0.0" />
+        <EMA_Animation Index="0" LoopStartFrame="0" LoopEndFrame="0" />
+        <BoneToAttach name="g_R_Hand" />
+      </EffectPart>
+      <EffectPart Container_Type="PBIND" Container_Index="0">
+        <StartTime Frames="0" />
+        <Placement value="OnBone" />
+        <RotateOnMovement value="1" />
+        <Deactivation Mode="Always" />
+        <I_06 value="2" />
+        <I_07 value="0" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+        <AvoidSphere Diameter="0.0" />
+        <AttachFlags MoveWithBone="False" RotateWithBone="False" InstantMoveAndRotate="False" OnGroundOnly="False" Unk4="False" />
+        <StartEffectPosition UseBoneDirection="False" UseBoneToCameraDirection="False" UseSceneCenterToBoneDirection="False" />
+        <I_34 value="0" />
+        <Flag_36 value="0x0" />
+        <Flag_38 a="0x0" b="0x0" />
+        <Flag_39 NoGlare="False" InverseTransparentDrawOrder="False" Unk1="False" Unk5="False" Unk6="False" />
+        <LinkFlags RelativePositionZ_To_AbsolutePositionZ="False" ScaleZ_To_BonePositionZ="False" ObjectOrientation_To_XXXX="False" />
+        <Position X="0.0" Y="0.0" Z="0.0" />
+        <Orientation_X Min="0.0" Max="0.0" />
+        <Orientation_Y Min="0.0" Max="0.0" />
+        <Orientation_Z Min="0.0" Max="0.0" />
+        <Scale Min="5.0" Max="5.0" />
+        <NearFadeDistance value="0.0" />
+        <FarFadeDistance value="0.0" />
+        <EMA_Animation Index="0" LoopStartFrame="0" LoopEndFrame="0" />
+        <BoneToAttach name="g_R_Hand" />
+      </EffectPart>
+    </Effect>
+    <Effect ID="1" I_02="0">
+      <EffectPart Container_Type="EMO" Container_Index="1">
+        <StartTime Frames="0" />
+        <Placement value="OnBone" />
+        <RotateOnMovement value="1" />
+        <Deactivation Mode="Never" />
+        <I_06 value="2" />
+        <I_07 value="0" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+        <AvoidSphere Diameter="0.0" />
+        <AttachFlags MoveWithBone="False" RotateWithBone="False" InstantMoveAndRotate="False" OnGroundOnly="False" Unk4="False" />
+        <StartEffectPosition UseBoneDirection="False" UseBoneToCameraDirection="False" UseSceneCenterToBoneDirection="False" />
+        <I_34 value="0" />
+        <Flag_36 value="0x0" />
+        <Flag_38 a="0x0" b="0x0" />
+        <Flag_39 NoGlare="False" InverseTransparentDrawOrder="False" Unk1="False" Unk5="False" Unk6="False" />
+        <LinkFlags RelativePositionZ_To_AbsolutePositionZ="False" ScaleZ_To_BonePositionZ="False" ObjectOrientation_To_XXXX="False" />
+        <Position X="0.0" Y="0.0" Z="0.0" />
+        <Orientation_X Min="0.0" Max="0.0" />
+        <Orientation_Y Min="0.0" Max="0.0" />
+        <Orientation_Z Min="0.0" Max="0.0" />
+        <Scale Min="5.0" Max="5.0" />
+        <NearFadeDistance value="0.0" />
+        <FarFadeDistance value="0.0" />
+        <EMA_Animation Index="0" LoopStartFrame="0" LoopEndFrame="0" />
+        <BoneToAttach name="g_R_Hand" />
+      </EffectPart>
+      <EffectPart Container_Type="PBIND" Container_Index="1">
+        <StartTime Frames="0" />
+        <Placement value="OnBone" />
+        <RotateOnMovement value="1" />
+        <Deactivation Mode="Never" />
+        <I_06 value="2" />
+        <I_07 value="0" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+        <AvoidSphere Diameter="0.0" />
+        <AttachFlags MoveWithBone="False" RotateWithBone="False" InstantMoveAndRotate="False" OnGroundOnly="False" Unk4="False" />
+        <StartEffectPosition UseBoneDirection="True" UseBoneToCameraDirection="False" UseSceneCenterToBoneDirection="False" />
+        <I_34 value="0" />
+        <Flag_36 value="0x0" />
+        <Flag_38 a="0x0" b="0x0" />
+        <Flag_39 NoGlare="False" InverseTransparentDrawOrder="False" Unk1="False" Unk5="False" Unk6="False" />
+        <LinkFlags RelativePositionZ_To_AbsolutePositionZ="False" ScaleZ_To_BonePositionZ="False" ObjectOrientation_To_XXXX="False" />
+        <Position X="0.0" Y="0.0" Z="-0.1" />
+        <Orientation_X Min="0.0" Max="0.0" />
+        <Orientation_Y Min="0.0" Max="0.0" />
+        <Orientation_Z Min="0.0" Max="0.0" />
+        <Scale Min="5.0" Max="5.0" />
+        <NearFadeDistance value="0.0" />
+        <FarFadeDistance value="0.0" />
+        <EMA_Animation Index="0" LoopStartFrame="0" LoopEndFrame="0" />
+        <BoneToAttach name="g_R_Hand" />
+      </EffectPart>
+      <EffectPart Container_Type="PBIND" Container_Index="2">
+        <StartTime Frames="0" />
+        <Placement value="OnBone" />
+        <RotateOnMovement value="1" />
+        <Deactivation Mode="Never" />
+        <I_06 value="2" />
+        <I_07 value="0" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+        <AvoidSphere Diameter="0.0" />
+        <AttachFlags MoveWithBone="False" RotateWithBone="False" InstantMoveAndRotate="False" OnGroundOnly="False" Unk4="False" />
+        <StartEffectPosition UseBoneDirection="True" UseBoneToCameraDirection="False" UseSceneCenterToBoneDirection="False" />
+        <I_34 value="0" />
+        <Flag_36 value="0x0" />
+        <Flag_38 a="0x0" b="0x0" />
+        <Flag_39 NoGlare="False" InverseTransparentDrawOrder="False" Unk1="False" Unk5="False" Unk6="False" />
+        <LinkFlags RelativePositionZ_To_AbsolutePositionZ="False" ScaleZ_To_BonePositionZ="False" ObjectOrientation_To_XXXX="False" />
+        <Position X="0.0" Y="0.0" Z="-0.1" />
+        <Orientation_X Min="0.0" Max="0.0" />
+        <Orientation_Y Min="0.0" Max="0.0" />
+        <Orientation_Z Min="0.0" Max="0.0" />
+        <Scale Min="5.0" Max="5.0" />
+        <NearFadeDistance value="0.0" />
+        <FarFadeDistance value="0.0" />
+        <EMA_Animation Index="0" LoopStartFrame="0" LoopEndFrame="0" />
+        <BoneToAttach name="g_R_Hand" />
+      </EffectPart>
+    </Effect>
+  </Effects>
+</EEPK>

@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BSA>
+  <BSA_Entry ID="0">
+    <I_00 value="0" />
+    <ImpactPropeties a="14" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="15" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="-1" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <AfterEffects>
+      <Collision>
+        <EEPK Type="StageBG" />
+        <Skill_ID value="65535" />
+        <Effect_ID value="600" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+      </Collision>
+      <Expiration>
+        <I_00 value="65535" />
+        <I_02 value="0" />
+        <I_04 value="65535" />
+        <I_06 value="65535" />
+      </Expiration>
+    </AfterEffects>
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Movement>
+      <Start_Time frames="3" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="180.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Hitbox>
+      <Start_Time frames="2" />
+      <Duration frames="13" />
+      <I_00 value="0" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_06 a="8" b="0" c="0" d="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+      <Hitbox_Scale value="1.2" />
+      <F_24 value="0.0" />
+      <F_28 value="0.0" />
+      <F_32 value="0.0" />
+      <F_36 value="0.0" />
+      <F_40 value="0.0" />
+      <F_44 value="0.0" />
+      <Hit_Amount value="1" />
+      <Hitbox_Lifetime value="100" />
+      <I_52 value="0" />
+      <I_54 value="0" />
+      <I_56 value="0" />
+      <BDM_ID FirstHit="0" MultipleHits="0" LastHit="0" />
+    </Hitbox>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="SuperSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="5" Switch="On" />
+      <I_06 value="65535" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+  </BSA_Entry>
+  <BSA_Entry ID="1">
+    <I_00 value="0" />
+    <ImpactPropeties a="14" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="25" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="-1" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <AfterEffects>
+      <Collision>
+        <EEPK Type="StageBG" />
+        <Skill_ID value="65535" />
+        <Effect_ID value="600" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+      </Collision>
+      <Expiration>
+        <I_00 value="65535" />
+        <I_02 value="0" />
+        <I_04 value="65535" />
+        <I_06 value="65535" />
+      </Expiration>
+    </AfterEffects>
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Movement>
+      <Start_Time frames="3" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="180.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Hitbox>
+      <Start_Time frames="2" />
+      <Duration frames="23" />
+      <I_00 value="0" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_06 a="8" b="0" c="0" d="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+      <Hitbox_Scale value="1.2" />
+      <F_24 value="0.0" />
+      <F_28 value="0.0" />
+      <F_32 value="0.0" />
+      <F_36 value="0.0" />
+      <F_40 value="0.0" />
+      <F_44 value="0.0" />
+      <Hit_Amount value="1" />
+      <Hitbox_Lifetime value="100" />
+      <I_52 value="0" />
+      <I_54 value="0" />
+      <I_56 value="0" />
+      <BDM_ID FirstHit="1" MultipleHits="1" LastHit="1" />
+    </Hitbox>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="SuperSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="5" Switch="On" />
+      <I_06 value="65535" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+  </BSA_Entry>
+  <BSA_Entry ID="2">
+    <I_00 value="0" />
+    <ImpactPropeties a="14" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="25" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="-1" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <AfterEffects>
+      <Collision>
+        <EEPK Type="StageBG" />
+        <Skill_ID value="65535" />
+        <Effect_ID value="600" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+      </Collision>
+      <Expiration>
+        <I_00 value="65535" />
+        <I_02 value="0" />
+        <I_04 value="65535" />
+        <I_06 value="65535" />
+      </Expiration>
+    </AfterEffects>
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Movement>
+      <Start_Time frames="3" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="180.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Hitbox>
+      <Start_Time frames="2" />
+      <Duration frames="23" />
+      <I_00 value="0" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_06 a="8" b="0" c="0" d="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+      <Hitbox_Scale value="1.2" />
+      <F_24 value="0.0" />
+      <F_28 value="0.0" />
+      <F_32 value="0.0" />
+      <F_36 value="0.0" />
+      <F_40 value="0.0" />
+      <F_44 value="0.0" />
+      <Hit_Amount value="1" />
+      <Hitbox_Lifetime value="100" />
+      <I_52 value="0" />
+      <I_54 value="0" />
+      <I_56 value="0" />
+      <BDM_ID FirstHit="2" MultipleHits="2" LastHit="2" />
+    </Hitbox>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="SuperSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="5" Switch="On" />
+      <I_06 value="65535" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+  </BSA_Entry>
+  <BSA_Entry ID="3">
+    <I_00 value="0" />
+    <ImpactPropeties a="14" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="35" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="-1" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <AfterEffects>
+      <Collision>
+        <EEPK Type="StageBG" />
+        <Skill_ID value="65535" />
+        <Effect_ID value="600" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+      </Collision>
+      <Expiration>
+        <I_00 value="65535" />
+        <I_02 value="0" />
+        <I_04 value="65535" />
+        <I_06 value="65535" />
+      </Expiration>
+    </AfterEffects>
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Movement>
+      <Start_Time frames="3" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="180.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Hitbox>
+      <Start_Time frames="2" />
+      <Duration frames="33" />
+      <I_00 value="0" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_06 a="8" b="0" c="0" d="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+      <Hitbox_Scale value="1.2" />
+      <F_24 value="0.0" />
+      <F_28 value="0.0" />
+      <F_32 value="0.0" />
+      <F_36 value="0.0" />
+      <F_40 value="0.0" />
+      <F_44 value="0.0" />
+      <Hit_Amount value="1" />
+      <Hitbox_Lifetime value="100" />
+      <I_52 value="0" />
+      <I_54 value="0" />
+      <I_56 value="0" />
+      <BDM_ID FirstHit="3" MultipleHits="3" LastHit="3" />
+    </Hitbox>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="SuperSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="5" Switch="On" />
+      <I_06 value="65535" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+  </BSA_Entry>
+  <BSA_Entry ID="4">
+    <I_00 value="0" />
+    <ImpactPropeties a="14" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="35" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="-1" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <AfterEffects>
+      <Collision>
+        <EEPK Type="StageBG" />
+        <Skill_ID value="65535" />
+        <Effect_ID value="600" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+      </Collision>
+      <Expiration>
+        <I_00 value="65535" />
+        <I_02 value="0" />
+        <I_04 value="65535" />
+        <I_06 value="65535" />
+      </Expiration>
+    </AfterEffects>
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Movement>
+      <Start_Time frames="3" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="180.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Hitbox>
+      <Start_Time frames="2" />
+      <Duration frames="33" />
+      <I_00 value="0" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_06 a="8" b="0" c="0" d="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+      <Hitbox_Scale value="1.2" />
+      <F_24 value="0.0" />
+      <F_28 value="0.0" />
+      <F_32 value="0.0" />
+      <F_36 value="0.0" />
+      <F_40 value="0.0" />
+      <F_44 value="0.0" />
+      <Hit_Amount value="1" />
+      <Hitbox_Lifetime value="100" />
+      <I_52 value="0" />
+      <I_54 value="0" />
+      <I_56 value="0" />
+      <BDM_ID FirstHit="4" MultipleHits="4" LastHit="4" />
+    </Hitbox>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="SuperSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="5" Switch="On" />
+      <I_06 value="65535" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+  </BSA_Entry>
+  <BSA_Entry ID="5">
+    <I_00 value="0" />
+    <ImpactPropeties a="14" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="35" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="-1" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <AfterEffects>
+      <Collision>
+        <EEPK Type="StageBG" />
+        <Skill_ID value="65535" />
+        <Effect_ID value="600" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+      </Collision>
+      <Expiration>
+        <I_00 value="65535" />
+        <I_02 value="0" />
+        <I_04 value="65535" />
+        <I_06 value="65535" />
+      </Expiration>
+    </AfterEffects>
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Movement>
+      <Start_Time frames="3" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="180.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Hitbox>
+      <Start_Time frames="2" />
+      <Duration frames="33" />
+      <I_00 value="0" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_06 a="8" b="0" c="0" d="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+      <Hitbox_Scale value="1.2" />
+      <F_24 value="0.0" />
+      <F_28 value="0.0" />
+      <F_32 value="0.0" />
+      <F_36 value="0.0" />
+      <F_40 value="0.0" />
+      <F_44 value="0.0" />
+      <Hit_Amount value="1" />
+      <Hitbox_Lifetime value="100" />
+      <I_52 value="0" />
+      <I_54 value="0" />
+      <I_56 value="0" />
+      <BDM_ID FirstHit="5" MultipleHits="5" LastHit="5" />
+    </Hitbox>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="SuperSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="5" Switch="On" />
+      <I_06 value="65535" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+  </BSA_Entry>
+</BSA>

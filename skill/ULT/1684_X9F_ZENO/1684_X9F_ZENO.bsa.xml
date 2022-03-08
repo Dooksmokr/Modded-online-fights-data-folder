@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BSA>
+  <BSA_Entry ID="0">
+    <I_00 value="0" />
+    <ImpactPropeties a="2" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="60" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="-1" ImpactProjectile="-1" ImpactEnemy="1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Hitbox>
+      <Start_Time frames="40" />
+      <Duration frames="20" />
+      <I_00 value="0" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_06 a="0" b="0" c="0" d="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+      <Hitbox_Scale value="5.0" />
+      <F_24 value="0.0" />
+      <F_28 value="0.0" />
+      <F_32 value="0.0" />
+      <F_36 value="0.0" />
+      <F_40 value="0.0" />
+      <F_44 value="0.0" />
+      <Hit_Amount value="1" />
+      <Hitbox_Lifetime value="1000" />
+      <I_52 value="0" />
+      <I_54 value="0" />
+      <I_56 value="0" />
+      <BDM_ID FirstHit="0" MultipleHits="0" LastHit="0" />
+    </Hitbox>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="5" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="41" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="8" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="59" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="7" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Sound>
+      <Start_Time frames="10" />
+      <Duration frames="1" />
+      <ACB_File value="Skill_SE" />
+      <I_02 value="0" />
+      <Cue_ID value="2" />
+      <I_06 value="0" />
+    </Sound>
+  </BSA_Entry>
+  <BSA_Entry ID="1">
+    <I_00 value="0" />
+    <ImpactPropeties a="0" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="120" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="5" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <BsaEntryPassing>
+      <Start_Time frames="0" />
+      <Duration frames="120" />
+      <I_00 value="5" />
+      <Main_Condition value="0x0" />
+      <BSA_Entry ID="2" />
+      <I_06 value="0" />
+      <Bac_Condition value="0.0" />
+      <F_12 value="0.0" />
+    </BsaEntryPassing>
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="5" Switch="Off" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="8" Switch="Off" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="6" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="9" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+  </BSA_Entry>
+  <BSA_Entry ID="2">
+    <I_00 value="0" />
+    <ImpactPropeties a="2" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="50" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="3" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Hitbox>
+      <Start_Time frames="0" />
+      <Duration frames="16" />
+      <I_00 value="0" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_06 a="0" b="0" c="0" d="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+      <Hitbox_Scale value="5.0" />
+      <F_24 value="0.0" />
+      <F_28 value="0.0" />
+      <F_32 value="0.0" />
+      <F_36 value="0.0" />
+      <F_40 value="0.0" />
+      <F_44 value="0.0" />
+      <Hit_Amount value="1" />
+      <Hitbox_Lifetime value="1000" />
+      <I_52 value="0" />
+      <I_54 value="0" />
+      <I_56 value="0" />
+      <BDM_ID FirstHit="1" MultipleHits="1" LastHit="1" />
+    </Hitbox>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="6" Switch="Off" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="9" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="10" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Sound>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <ACB_File value="Skill_SE" />
+      <I_02 value="0" />
+      <Cue_ID value="6" />
+      <I_06 value="0" />
+    </Sound>
+    <Sound>
+      <Start_Time frames="1" />
+      <Duration frames="1" />
+      <ACB_File value="Skill_SE" />
+      <I_02 value="0" />
+      <Cue_ID value="7" />
+      <I_06 value="0" />
+    </Sound>
+  </BSA_Entry>
+  <BSA_Entry ID="3">
+    <I_00 value="0" />
+    <ImpactPropeties a="0" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="90" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="5" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <BsaEntryPassing>
+      <Start_Time frames="0" />
+      <Duration frames="90" />
+      <I_00 value="5" />
+      <Main_Condition value="0x0" />
+      <BSA_Entry ID="4" />
+      <I_06 value="0" />
+      <Bac_Condition value="0.0" />
+      <F_12 value="0.0" />
+    </BsaEntryPassing>
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+  </BSA_Entry>
+  <BSA_Entry ID="4">
+    <I_00 value="0" />
+    <ImpactPropeties a="0" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="50" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="-1" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <Movement>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <Motion_Flags value="0x0" />
+      <Speed X="0.0" Y="0.0" Z="0.0" />
+      <F_16 value="0.0" />
+      <Acceleration X="0.0" Y="0.0" Z="0.0" />
+      <Falloff_Strength value="0.0" />
+      <Spread_Direction X="0.0" Y="0.0" Z="0.0" />
+    </Movement>
+    <Hitbox>
+      <Start_Time frames="0" />
+      <Duration frames="16" />
+      <I_00 value="0" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_06 a="0" b="0" c="0" d="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+      <Hitbox_Scale value="5.0" />
+      <F_24 value="0.0" />
+      <F_28 value="0.0" />
+      <F_32 value="0.0" />
+      <F_36 value="0.0" />
+      <F_40 value="0.0" />
+      <F_44 value="0.0" />
+      <Hit_Amount value="1" />
+      <Hitbox_Lifetime value="1000" />
+      <I_52 value="0" />
+      <I_54 value="0" />
+      <I_56 value="0" />
+      <BDM_ID FirstHit="2" MultipleHits="2" LastHit="2" />
+    </Hitbox>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="11" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="6" Switch="Off" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="9" Switch="Off" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="10" Switch="Off" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="StageBG" />
+      <Skill_ID value="65535" />
+      <Effect ID="410" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Sound>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <ACB_File value="Skill_SE" />
+      <I_02 value="0" />
+      <Cue_ID value="5" />
+      <I_06 value="0" />
+    </Sound>
+    <BSA_Type8>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <I_00 value="11" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_08 value="0" />
+      <I_12 value="0" />
+      <I_16 value="0" />
+      <I_20 value="0" />
+    </BSA_Type8>
+    <BSA_Type8>
+      <Start_Time frames="1" />
+      <Duration frames="1" />
+      <I_00 value="221" />
+      <I_02 value="0" />
+      <I_04 value="0" />
+      <I_08 value="0" />
+      <I_12 value="0" />
+      <I_16 value="0" />
+      <I_20 value="0" />
+    </BSA_Type8>
+  </BSA_Entry>
+  <BSA_Entry ID="5">
+    <I_00 value="0" />
+    <ImpactPropeties a="0" b="0" />
+    <I_17 value="0" />
+    <I_18 value="0" />
+    <Lifetime value="30" />
+    <I_24 value="0" />
+    <EntryPassOn_When Expires="-1" ImpactProjectile="-1" ImpactEnemy="-1" ImpactGround="-1" />
+    <I_40 values="0, 0, 0" />
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="7" Switch="On" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="10" Switch="Off" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Effect>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <EEPK Type="UltimateSkill" />
+      <Skill_ID value="47818" />
+      <Effect ID="6" Switch="Off" />
+      <I_06 value="0" />
+      <I_10 value="0" />
+      <Position X="0.0" Y="0.0" Z="0.0" />
+    </Effect>
+    <Sound>
+      <Start_Time frames="0" />
+      <Duration frames="1" />
+      <ACB_File value="Skill_SE" />
+      <I_02 value="0" />
+      <Cue_ID value="3" />
+      <I_06 value="0" />
+    </Sound>
+    <Sound>
+      <Start_Time frames="1" />
+      <Duration frames="1" />
+      <ACB_File value="Skill_SE" />
+      <I_02 value="0" />
+      <Cue_ID value="7" />
+      <I_06 value="0" />
+    </Sound>
+  </BSA_Entry>
+</BSA>

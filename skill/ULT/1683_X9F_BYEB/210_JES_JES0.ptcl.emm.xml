@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EMM Version="37568">
+  <Material Index="0" UseLocalCopy="False" Name="nml_LR2" Shader="ParticleDecal">
+    <I_66 value="65535" />
+    <Parameter Name="GlareColR" Type="Float" value="1" />
+    <Parameter Name="GlareColG" Type="Float" value="0" />
+    <Parameter Name="GlareColB" Type="Float" value="1.5" />
+    <Parameter Name="GlareColA" Type="Float" value="1" />
+    <Parameter Name="AlphaBlend" Type="Int" value="1" />
+    <Parameter Name="AlphaBlendType" Type="Int" value="0" />
+    <Parameter Name="ZWriteMask" Type="Int" value="1" />
+    <Parameter Name="Glare" Type="Int" value="1" />
+  </Material>
+  <Material Index="1" UseLocalCopy="False" Name="add_GR" Shader="ParticleDecal">
+    <I_66 value="65535" />
+    <Parameter Name="GlareColR" Type="Float" value="2" />
+    <Parameter Name="GlareColG" Type="Float" value="0" />
+    <Parameter Name="GlareColB" Type="Float" value="4" />
+    <Parameter Name="GlareColA" Type="Float" value="1" />
+    <Parameter Name="AlphaBlend" Type="Int" value="1" />
+    <Parameter Name="AlphaBlendType" Type="Int" value="1" />
+    <Parameter Name="ZWriteMask" Type="Int" value="1" />
+    <Parameter Name="Glare" Type="Int" value="1" />
+  </Material>
+  <Material Index="2" UseLocalCopy="False" Name="nml_LR2_GP" Shader="ParticleDecal">
+    <I_66 value="65535" />
+    <Parameter Name="GlareColR" Type="Float" value="3" />
+    <Parameter Name="GlareColG" Type="Float" value="0" />
+    <Parameter Name="GlareColB" Type="Float" value="6" />
+    <Parameter Name="GlareColA" Type="Float" value="1" />
+    <Parameter Name="AlphaBlend" Type="Int" value="1" />
+    <Parameter Name="AlphaBlendType" Type="Int" value="0" />
+    <Parameter Name="ZWriteMask" Type="Int" value="1" />
+    <Parameter Name="Glare" Type="Int" value="1" />
+    <Parameter Name="LowRez" Type="Int" value="1" />
+  </Material>
+  <Material Index="3" UseLocalCopy="False" Name="nml_BF_LR2_GY" Shader="ParticleDecal">
+    <I_66 value="65535" />
+    <Parameter Name="GlareColR" Type="Float" value="2" />
+    <Parameter Name="GlareColG" Type="Float" value="0" />
+    <Parameter Name="GlareColB" Type="Float" value="4" />
+    <Parameter Name="GlareColA" Type="Float" value="1" />
+    <Parameter Name="AlphaBlend" Type="Int" value="1" />
+    <Parameter Name="AlphaBlendType" Type="Int" value="0" />
+    <Parameter Name="BackFace" Type="Int" value="1" />
+    <Parameter Name="ZWriteMask" Type="Int" value="1" />
+    <Parameter Name="Glare" Type="Int" value="1" />
+    <Parameter Name="LowRez" Type="Int" value="1" />
+  </Material>
+  <Material Index="4" UseLocalCopy="False" Name="add_LR2_G" Shader="ParticleDecal">
+    <I_66 value="65535" />
+    <Parameter Name="GlareColR" Type="Float" value="1" />
+    <Parameter Name="GlareColG" Type="Float" value="1" />
+    <Parameter Name="GlareColB" Type="Float" value="1" />
+    <Parameter Name="GlareColA" Type="Float" value="1" />
+    <Parameter Name="AlphaBlend" Type="Int" value="1" />
+    <Parameter Name="AlphaBlendType" Type="Int" value="1" />
+    <Parameter Name="ZWriteMask" Type="Int" value="1" />
+    <Parameter Name="Glare" Type="Int" value="1" />
+    <Parameter Name="LowRez" Type="Int" value="1" />
+  </Material>
+  <Material Index="5" UseLocalCopy="False" Name="add_LR2_GY" Shader="ParticleDecal">
+    <I_66 value="65535" />
+    <Parameter Name="GlareColR" Type="Float" value="2" />
+    <Parameter Name="GlareColG" Type="Float" value="0" />
+    <Parameter Name="GlareColB" Type="Float" value="4" />
+    <Parameter Name="GlareColA" Type="Float" value="1" />
+    <Parameter Name="AlphaBlend" Type="Int" value="1" />
+    <Parameter Name="AlphaBlendType" Type="Int" value="1" />
+    <Parameter Name="ZWriteMask" Type="Int" value="1" />
+    <Parameter Name="Glare" Type="Int" value="1" />
+    <Parameter Name="LowRez" Type="Int" value="1" />
+  </Material>
+  <UnknownData>
+    <I_00 value="0" />
+    <I_04 value="0" />
+    <I_08 value="0" />
+    <I_12 value="0" />
+    <I_16 value="0" />
+    <I_20 value="0" />
+    <I_24 value="0" />
+    <I_28 value="0" />
+    <I_32 value="0" />
+    <I_36 value="0" />
+    <I_40 value="0" />
+    <I_44 value="0" />
+    <I_48 value="0" />
+    <I_52 value="0" />
+    <I_56 value="0" />
+    <I_60 value="0" />
+    <I_64 value="0" />
+  </UnknownData>
+</EMM>

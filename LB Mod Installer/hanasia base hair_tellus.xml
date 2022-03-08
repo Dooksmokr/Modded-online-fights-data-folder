@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Hanasia Base Hair" Author="Tellus" Version="1.0.0.0">
+    <Files>
+      <File FilePath="chara/HUF/HUF.bcs">
+        <Section FileSection="BCS_PartSets" IDs="180" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles>
+      <File FilePath="chara/HUF/desktop.ini" />
+      <File FilePath="chara/HUF/HUF_007_hair.scd" />
+      <File FilePath="chara/HUF/HUF_007_hair_scd.dyt.emb" />
+      <File FilePath="chara/HUF/HUF_007_hair_scd.emb" />
+      <File FilePath="chara/HUF/HUF_007_hair_scd.emd" />
+      <File FilePath="chara/HUF/HUF_007_hair_scd.emm" />
+      <File FilePath="chara/HUF/HUF_007_hair_scd.esk" />
+    </JungleFiles>
+  </Mod>
+</TrackingXml>

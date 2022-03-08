@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EMM Version="37568">
+  <Material Index="0" UseLocalCopy="False" Name="Bas" Shader="T1_VFX_PRLX_MTN">
+    <I_66 value="65535" />
+    <Parameter Name="TexScrl0U" Type="Float" value="0.395102" />
+    <Parameter Name="TexScrl0V" Type="Float" value="0" />
+    <Parameter Name="TexScrl1U" Type="Float" value="8" />
+    <Parameter Name="TexScrl1V" Type="Float" value="0" />
+    <Parameter Name="MatCol0R" Type="Float" value="0" />
+    <Parameter Name="MatCol0G" Type="Float" value="1" />
+    <Parameter Name="MatCol0B" Type="Float" value="1" />
+    <Parameter Name="MatCol0A" Type="Float" value="1" />
+    <Parameter Name="MatCol1R" Type="Float" value="1" />
+    <Parameter Name="MatCol1G" Type="Float" value="1" />
+    <Parameter Name="MatCol1B" Type="Float" value="1" />
+    <Parameter Name="MatCol1A" Type="Float" value="1" />
+    <Parameter Name="MatCol2R" Type="Float" value="0" />
+    <Parameter Name="MatCol2G" Type="Float" value="0" />
+    <Parameter Name="MatCol2B" Type="Float" value="0" />
+    <Parameter Name="MatCol2A" Type="Float" value="1" />
+    <Parameter Name="MatCol3R" Type="Float" value="0" />
+    <Parameter Name="MatCol3G" Type="Float" value="0" />
+    <Parameter Name="MatCol3B" Type="Float" value="0" />
+    <Parameter Name="MatCol3A" Type="Float" value="0" />
+    <Parameter Name="VsFlag0" Type="Bool" value="true" />
+    <Parameter Name="VsFlag1" Type="Bool" value="false" />
+    <Parameter Name="VsFlag2" Type="Bool" value="false" />
+    <Parameter Name="VsFlag3" Type="Bool" value="false" />
+    <Parameter Name="IncidencePower" Type="Float" value="1" />
+    <Parameter Name="IncidenceAlphaBias" Type="Float" value="1" />
+    <Parameter Name="GlareColR" Type="Float" value="5" />
+    <Parameter Name="GlareColG" Type="Float" value="0" />
+    <Parameter Name="GlareColB" Type="Float" value="10" />
+    <Parameter Name="GlareColA" Type="Float" value="1" />
+    <Parameter Name="MatScale1X" Type="Float" value="-4" />
+    <Parameter Name="MatScale1Y" Type="Float" value="1" />
+    <Parameter Name="MatScale1Z" Type="Float" value="1" />
+    <Parameter Name="MatScale1W" Type="Float" value="1" />
+    <Parameter Name="AlphaBlend" Type="Int" value="1" />
+    <Parameter Name="AlphaBlendType" Type="Int" value="1" />
+    <Parameter Name="BackFace" Type="Int" value="1" />
+    <Parameter Name="ZWriteMask" Type="Int" value="1" />
+    <Parameter Name="Glare" Type="Int" value="1" />
+    <Parameter Name="LowRez" Type="Int" value="1" />
+    <Parameter Name="AnimationChannel" Type="Int" value="196610" />
+  </Material>
+  <UnknownData>
+    <I_00 value="0" />
+    <I_04 value="0" />
+    <I_08 value="0" />
+    <I_12 value="0" />
+    <I_16 value="0" />
+    <I_20 value="0" />
+    <I_24 value="0" />
+    <I_28 value="0" />
+    <I_32 value="0" />
+    <I_36 value="0" />
+    <I_40 value="0" />
+    <I_44 value="0" />
+    <I_48 value="0" />
+    <I_52 value="0" />
+    <I_56 value="0" />
+    <I_60 value="0" />
+    <I_64 value="0" />
+  </UnknownData>
+</EMM>

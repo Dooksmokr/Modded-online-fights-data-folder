@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EEPK>
+  <Containers>
+    <Container Type="EMO">
+      <I_00 value="0x8" />
+      <I_04 value="0xff" />
+      <I_05 value="0xff" />
+      <I_06 value="0xff" />
+      <I_07 value="0xff" />
+      <I_08 value="0xffffffff" />
+      <I_12 value="0xffffffff" />
+      <Files values="NULL, NULL, NULL" />
+      <Container_Entry Index="0">
+        <UseLocalCopy value="False" />
+        <I_00 value="0" />
+        <Files values="Vsb_Bas.emo, Vsb_Bas.emm, Vsb_Bas.emb, Vsb_Bas.mat.ema, Vsb_Bas.obj.ema" />
+      </Container_Entry>
+      <Container_Entry Index="1">
+        <UseLocalCopy value="False" />
+        <I_00 value="1" />
+        <Files values="Vsb_Shot.emo, Vsb_Shot.emm, Vsb_Shot.emb, Vsb_Shot.mat.ema, Vsb_Shot.obj.ema" />
+      </Container_Entry>
+    </Container>
+    <Container Type="PBIND">
+      <I_00 value="0xc" />
+      <I_04 value="0x40" />
+      <I_05 value="0x0" />
+      <I_06 value="0x0" />
+      <I_07 value="0x0" />
+      <I_08 value="0x15e" />
+      <I_12 value="0x100" />
+      <Files values="371_BUS_VSB.pbind.emb, 371_BUS_VSB.ptcl.emm, 371_BUS_VSB.ptcl.emb" />
+      <Container_Entry Index="0">
+        <UseLocalCopy value="False" />
+        <I_00 value="0" />
+        <Files values="Vsb_Start.emp, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+      <Container_Entry Index="1">
+        <UseLocalCopy value="False" />
+        <I_00 value="1" />
+        <Files values="Vsb_Shot.emp, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+      <Container_Entry Index="2">
+        <UseLocalCopy value="False" />
+        <I_00 value="2" />
+        <Files values="Vsb_Tail.emp, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+      <Container_Entry Index="3">
+        <UseLocalCopy value="False" />
+        <I_00 value="3" />
+        <Files values="Vsb_Fire.emp, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+    </Container>
+    <Container Type="LIGHT.EMA">
+      <I_00 value="0x8" />
+      <I_04 value="0xff" />
+      <I_05 value="0xff" />
+      <I_06 value="0xff" />
+      <I_07 value="0xff" />
+      <I_08 value="0xffffffff" />
+      <I_12 value="0xffffffff" />
+      <Files values="NULL, NULL, NULL" />
+      <Container_Entry Index="0">
+        <UseLocalCopy value="False" />
+        <I_00 value="0" />
+        <Files values="Vsb_Bas.light.ema, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+      <Container_Entry Index="1">
+        <UseLocalCopy value="False" />
+        <I_00 value="1" />
+        <Files values="Vsb_Crg.light.ema, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+      <Container_Entry Index="2">
+        <UseLocalCopy value="False" />
+        <I_00 value="2" />
+        <Files values="Vsb_Fire.light.ema, NULL, NULL, NULL, NULL" />
+      </Container_Entry>
+    </Container>
+  </Containers>
+  <Effects>
+    <Effect ID="5" I_02="0">
+      <EffectPart Container_Type="PBIND" Container_Index="1">
+        <StartTime Frames="0" />
+        <Placement value="OnBone" />
+        <RotateOnMovement value="1" />
+        <Deactivation Mode="Always" />
+        <I_06 value="2" />
+        <I_07 value="0" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+        <AvoidSphere Diameter="0.0" />
+        <AttachFlags MoveWithBone="True" RotateWithBone="True" InstantMoveAndRotate="True" OnGroundOnly="False" Unk4="False" />
+        <StartEffectPosition UseBoneDirection="True" UseBoneToCameraDirection="False" UseSceneCenterToBoneDirection="False" />
+        <I_34 value="0" />
+        <Flag_36 value="0x0" />
+        <Flag_38 a="0x0" b="0x0" />
+        <Flag_39 NoGlare="False" InverseTransparentDrawOrder="False" Unk1="False" Unk5="False" Unk6="False" />
+        <LinkFlags RelativePositionZ_To_AbsolutePositionZ="False" ScaleZ_To_BonePositionZ="False" ObjectOrientation_To_XXXX="False" />
+        <Position X="0.0" Y="0.0" Z="0.0" />
+        <Orientation_X Min="0.0" Max="0.0" />
+        <Orientation_Y Min="0.0" Max="0.0" />
+        <Orientation_Z Min="0.0" Max="0.0" />
+        <Scale Min="1.0" Max="1.0" />
+        <NearFadeDistance value="0.0" />
+        <FarFadeDistance value="500.0" />
+        <EMA_Animation Index="0" LoopStartFrame="0" LoopEndFrame="0" />
+        <BoneToAttach name="TRS" />
+      </EffectPart>
+      <EffectPart Container_Type="EMO" Container_Index="1">
+        <StartTime Frames="0" />
+        <Placement value="OnBone" />
+        <RotateOnMovement value="3" />
+        <Deactivation Mode="Always" />
+        <I_06 value="0" />
+        <I_07 value="0" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+        <AvoidSphere Diameter="0.0" />
+        <AttachFlags MoveWithBone="True" RotateWithBone="True" InstantMoveAndRotate="True" OnGroundOnly="False" Unk4="False" />
+        <StartEffectPosition UseBoneDirection="True" UseBoneToCameraDirection="False" UseSceneCenterToBoneDirection="False" />
+        <I_34 value="0" />
+        <Flag_36 value="0x0" />
+        <Flag_38 a="0x0" b="0x0" />
+        <Flag_39 NoGlare="False" InverseTransparentDrawOrder="False" Unk1="False" Unk5="False" Unk6="False" />
+        <LinkFlags RelativePositionZ_To_AbsolutePositionZ="False" ScaleZ_To_BonePositionZ="False" ObjectOrientation_To_XXXX="False" />
+        <Position X="0.0" Y="0.0" Z="0.0" />
+        <Orientation_X Min="0.0" Max="0.0" />
+        <Orientation_Y Min="0.0" Max="0.0" />
+        <Orientation_Z Min="0.0" Max="0.0" />
+        <Scale Min="1.75" Max="1.75" />
+        <NearFadeDistance value="0.0" />
+        <FarFadeDistance value="500.0" />
+        <EMA_Animation Index="0" LoopStartFrame="0" LoopEndFrame="0" />
+        <BoneToAttach name="TRS" />
+      </EffectPart>
+      <EffectPart Container_Type="LIGHT.EMA" Container_Index="0">
+        <StartTime Frames="0" />
+        <Placement value="OnBone" />
+        <RotateOnMovement value="0" />
+        <Deactivation Mode="Always" />
+        <I_06 value="2" />
+        <I_07 value="0" />
+        <I_08 value="0" />
+        <I_12 value="0" />
+        <I_16 value="0" />
+        <I_20 value="0" />
+        <AvoidSphere Diameter="0.0" />
+        <AttachFlags MoveWithBone="True" RotateWithBone="False" InstantMoveAndRotate="False" OnGroundOnly="False" Unk4="False" />
+        <StartEffectPosition UseBoneDirection="True" UseBoneToCameraDirection="False" UseSceneCenterToBoneDirection="False" />
+        <I_34 value="0" />
+        <Flag_36 value="0x1" />
+        <Flag_38 a="0x0" b="0x0" />
+        <Flag_39 NoGlare="False" InverseTransparentDrawOrder="False" Unk1="False" Unk5="False" Unk6="False" />
+        <LinkFlags RelativePositionZ_To_AbsolutePositionZ="False" ScaleZ_To_BonePositionZ="False" ObjectOrientation_To_XXXX="False" />
+        <Position X="0.0" Y="0.0" Z="0.0" />
+        <Orientation_X Min="0.0" Max="0.0" />
+        <Orientation_Y Min="0.0" Max="0.0" />
+        <Orientation_Z Min="0.0" Max="0.0" />
+        <Scale Min="1.0" Max="1.0" />
+        <NearFadeDistance value="0.0" />
+        <FarFadeDistance value="0.0" />
+        <EMA_Animation Index="0" LoopStartFrame="0" LoopEndFrame="30" />
+        <BoneToAttach name="TRS" />
+      </EffectPart>
+    </Effect>
+  </Effects>
+</EEPK>

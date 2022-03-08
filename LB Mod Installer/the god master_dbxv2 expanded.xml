@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="The God Master" Author="DBXV2 Expanded" Version="1.0.0.0">
+    <Files>
+      <File FilePath="event/lobby/lobby_npc_list.tnl">
+        <Section FileSection="TNL_Character" IDs="2100_0" />
+      </File>
+      <File FilePath="event/lobby/lobby_event_manage.tsd">
+        <Section FileSection="TSD_Event" IDs="4000,4001,4002,4003,4004,4005" />
+        <Section FileSection="TSD_Trigger" IDs="8000,8001,8002,8003,8004" />
+      </File>
+      <File FilePath="msg/lobby_text_en.msg">
+        <Section FileSection="MSG_Entries" IDs="17507,17508,17509,17510,17511,17512,17513,17514" />
+      </File>
+      <File FilePath="vfx/cmn/BTL_AURA.eepk">
+        <Section FileSection="EEPK_Effect" IDs="21020,21021,21022,21023,21024,21026,21027,21028" />
+      </File>
+      <File FilePath="system/custom_skill.cus">
+        <Section FileSection="CUS_BlastSkills" IDs="21570,21571" />
+      </File>
+      <File FilePath="system/item/talisman_item.idb">
+        <Section FileSection="IDB_Entries" IDs="25913_9" />
+      </File>
+      <File FilePath="system/item/gallery_item.idb">
+        <Section FileSection="IDB_Entries" IDs="245_1,246_1,247_1,248_1" />
+      </File>
+      <File FilePath="vfx/vfx_spec.ers">
+        <Section FileSection="ERS_Entry/4" IDs="176,177" />
+      </File>
+      <File FilePath="chara/THG/THG.bcs">
+        <Section FileSection="BCS_PartSets" IDs="60,61" />
+      </File>
+    </Files>
+    <MsgComponents>
+      <File FilePath="msg/proper_noun_talisman_name_">
+        <Section FileSection="MSG_Entries" IDs="1055" />
+      </File>
+      <File FilePath="msg/proper_noun_talisman_info_">
+        <Section FileSection="MSG_Entries" IDs="212" />
+      </File>
+      <File FilePath="msg/proper_noun_talisman_info_olt_">
+        <Section FileSection="MSG_Entries" IDs="51" />
+      </File>
+      <File FilePath="msg/quest_btlhud_">
+        <Section FileSection="MSG_Entries" IDs="227" />
+      </File>
+      <File FilePath="msg/proper_noun_gallery_illust_info_">
+        <Section FileSection="MSG_Entries" IDs="16,17,18,19" />
+      </File>
+      <File FilePath="msg/proper_noun_gallery_illust_name_">
+        <Section FileSection="MSG_Entries" IDs="261,262,263,264" />
+      </File>
+    </MsgComponents>
+    <JungleFiles>
+      <File FilePath="ui/texture/illust_246.emb" />
+      <File FilePath="ui/texture/illust_246_s.emb" />
+      <File FilePath="ui/texture/illust_247.emb" />
+      <File FilePath="ui/texture/illust_247_s.emb" />
+      <File FilePath="ui/texture/illust_248.emb" />
+      <File FilePath="ui/texture/illust_248_s.emb" />
+      <File FilePath="ui/texture/illust_249.emb" />
+      <File FilePath="ui/texture/illust_249_s.emb" />
+      <File FilePath="chara/THG/THG_000_Boots_LOD01.emd" />
+      <File FilePath="chara/THG/THG_000_Boots_LOD02.emd" />
+      <File FilePath="chara/THG/THG_000_Boots_LOD03.emd" />
+      <File FilePath="chara/THG/THG_000_Bust_LOD01.emd" />
+      <File FilePath="chara/THG/THG_000_Bust_LOD02.emd" />
+      <File FilePath="chara/THG/THG_000_Bust_LOD03.emd" />
+      <File FilePath="chara/THG/THG_000_Face_base_LOD01.emd" />
+      <File FilePath="chara/THG/THG_000_Face_base_LOD02.emd" />
+      <File FilePath="chara/THG/THG_000_Face_base_LOD03.emd" />
+      <File FilePath="chara/THG/THG_000_Face_eye_LOD01.emd" />
+      <File FilePath="chara/THG/THG_000_Face_eye_LOD02.emd" />
+      <File FilePath="chara/THG/THG_000_Face_eye_LOD03.emd" />
+      <File FilePath="chara/THG/THG_000_hair_scd_LOD01.emd" />
+      <File FilePath="chara/THG/THG_000_hair_scd_LOD01.esk" />
+      <File FilePath="chara/THG/THG_000_hair_scd_LOD02.emd" />
+      <File FilePath="chara/THG/THG_000_hair_scd_LOD02.esk" />
+      <File FilePath="chara/THG/THG_000_hair_scd_LOD03.emd" />
+      <File FilePath="chara/THG/THG_000_hair_scd_LOD03.esk" />
+      <File FilePath="chara/THG/THG_000_LOD01.esk" />
+      <File FilePath="chara/THG/THG_000_LOD02.esk" />
+      <File FilePath="chara/THG/THG_000_LOD03.esk" />
+      <File FilePath="chara/THG/THG_000_obi_scd_LOD01.emd" />
+      <File FilePath="chara/THG/THG_000_obi_scd_LOD01.esk" />
+      <File FilePath="chara/THG/THG_000_obi_scd_LOD02.emd" />
+      <File FilePath="chara/THG/THG_000_obi_scd_LOD02.esk" />
+      <File FilePath="chara/THG/THG_000_obi_scd_LOD03.emd" />
+      <File FilePath="chara/THG/THG_000_obi_scd_LOD03.esk" />
+      <File FilePath="chara/THG/THG_000_Pants_LOD01.emd" />
+      <File FilePath="chara/THG/THG_000_Pants_LOD02.emd" />
+      <File FilePath="chara/THG/THG_000_Pants_LOD03.emd" />
+      <File FilePath="chara/THG/THG_000_Rist_LOD01.emd" />
+      <File FilePath="chara/THG/THG_000_Rist_LOD02.emd" />
+      <File FilePath="chara/THG/THG_000_Rist_LOD03.emd" />
+      <File FilePath="stage/NLBY_EVE.map" />
+      <File FilePath="skill/BLT/1570_NI1_PDG/1570_NI1_PDG.bsa" />
+      <File FilePath="skill/BLT/1570_NI1_PDG/1570_NI1_PDG_PLAYER.bcm" />
+      <File FilePath="skill/BLT/1570_NI1_PDG/1570_NI1_PDG_PLAYER.shot.bdm" />
+      <File FilePath="skill/BLT/1570_NI1_PDG/1570_NI1_PDG.bac" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.bac" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.bsa" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.ean" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.eepk" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.pbind.emb" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.ptcl.emb" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.ptcl.emm" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.tbind.emb" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.trc.emb" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI.trc.emm" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI_PLAYER.bcm" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI_PLAYER.bdm" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/1571_NI1_PSHI_PLAYER.shot.bdm" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/Pns_Bas.light.ema" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/Pns_Bas2.light.ema" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/Pns_Fire.light.ema" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/Pns_Shd.emb" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/Pns_Shd.emm" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/Pns_Shd.emo" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/Pns_ShdANI.mat.ema" />
+      <File FilePath="skill/BLT/1571_NI1_PSHI/Pns_ShdANI.obj.ema" />
+      <File FilePath="chara/THG/THG_SSG_Face_eye.emd" />
+      <File FilePath="chara/THG/THG_SSG_Face_eye.emm" />
+      <File FilePath="chara/THG/THG_SSG_Face_eye.dyt.emb" />
+      <File FilePath="chara/THG/THG_SSG_Face_eye.emb" />
+    </JungleFiles>
+  </Mod>
+</TrackingXml>

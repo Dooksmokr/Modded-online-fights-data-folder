@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<EMM>
+  <EMMMaterial name="bust_skin" shader_name="TOON_UNIF_STAIN2d2_XVM_DFD">
+    <EMMParameter name="MatCol0R" type="0" value="0" />
+    <EMMParameter name="MatCol0G" type="0" value="0" />
+    <EMMParameter name="MatCol0B" type="0" value="0" />
+    <EMMParameter name="MatCol0A" type="0" value="0.5" />
+    <EMMParameter name="MatCol1R" type="0" value="0" />
+    <EMMParameter name="MatCol1G" type="0" value="0" />
+    <EMMParameter name="MatCol1B" type="0" value="0" />
+    <EMMParameter name="MatCol1A" type="0" value="1" />
+    <EMMParameter name="MatCol3R" type="0" value="0" />
+    <EMMParameter name="MatCol3G" type="0" value="0" />
+    <EMMParameter name="MatCol3B" type="0" value="1" />
+    <EMMParameter name="MatCol3A" type="0" value="1" />
+    <EMMParameter name="MatScale0X" type="0" value="1" />
+    <EMMParameter name="MatScale0Y" type="0" value="1" />
+    <EMMParameter name="MatScale0Z" type="0" value="1" />
+    <EMMParameter name="MatScale0W" type="0" value="0.03" />
+    <EMMParameter name="MatScale1X" type="0" value="0" />
+    <EMMParameter name="MatScale1Y" type="0" value="1" />
+    <EMMParameter name="MatScale1Z" type="0" value="1" />
+    <EMMParameter name="MatScale1W" type="0" value="0.5" />
+    <EMMParameter name="Glare" type="65537" value="1" />
+  </EMMMaterial>
+  <EMMMaterial name="Universe" shader_name="TOON_UNIF_STAIN1_DFD">
+    <EMMParameter name="MatCol0R" type="0" value="0" />
+    <EMMParameter name="MatCol0G" type="0" value="0" />
+    <EMMParameter name="MatCol0B" type="0" value="0" />
+    <EMMParameter name="MatCol0A" type="0" value="1" />
+    <EMMParameter name="MatScale0X" type="0" value="1" />
+    <EMMParameter name="MatScale0Y" type="0" value="1" />
+    <EMMParameter name="MatScale0Z" type="0" value="1" />
+    <EMMParameter name="MatScale0W" type="0" value="0.5" />
+    <EMMParameter name="MatScale1X" type="0" value="2" />
+    <EMMParameter name="MatScale1Y" type="0" value="4" />
+    <EMMParameter name="MatScale1Z" type="0" value="1" />
+    <EMMParameter name="MatScale1W" type="0" value="0" />
+    <EMMParameter name="Glare" type="65537" value="1" />
+  </EMMMaterial>
+  <EMMMaterial name="Core" shader_name="TOON_UNIF_ENV">
+    <EMMParameter name="MatOffset1X" type="0" value="0" />
+    <EMMParameter name="MatOffset1Y" type="0" value="0" />
+    <EMMParameter name="MatOffset1Z" type="0" value="0" />
+    <EMMParameter name="MatOffset1W" type="0" value="0" />
+    <EMMParameter name="ReflectCoeff" type="0" value="1" />
+    <EMMParameter name="ReflectFresnelBias" type="0" value="1" />
+    <EMMParameter name="ReflectFresnelCoeff" type="0" value="1" />
+    <EMMParameter name="MatScale0X" type="0" value="1" />
+    <EMMParameter name="MatScale0Y" type="0" value="1" />
+    <EMMParameter name="MatScale0Z" type="0" value="1" />
+    <EMMParameter name="MatScale0W" type="0" value="0.03" />
+    <EMMParameter name="MatScale1X" type="0" value="3" />
+    <EMMParameter name="MatScale1Y" type="0" value="1" />
+    <EMMParameter name="MatScale1Z" type="0" value="1" />
+    <EMMParameter name="MatScale1W" type="0" value="1" />
+    <EMMParameter name="Glare" type="65537" value="1" />
+  </EMMMaterial>
+  <EMMMaterial name="armwarmer" shader_name="TOON_UNIF_STAIN2_DFD">
+    <EMMParameter name="MatCol0R" type="0" value="0" />
+    <EMMParameter name="MatCol0G" type="0" value="0" />
+    <EMMParameter name="MatCol0B" type="0" value="0" />
+    <EMMParameter name="MatCol0A" type="0" value="1" />
+    <EMMParameter name="MatCol1R" type="0" value="0" />
+    <EMMParameter name="MatCol1G" type="0" value="0" />
+    <EMMParameter name="MatCol1B" type="0" value="0" />
+    <EMMParameter name="MatCol1A" type="0" value="1" />
+    <EMMParameter name="MatCol3R" type="0" value="0" />
+    <EMMParameter name="MatCol3G" type="0" value="0" />
+    <EMMParameter name="MatCol3B" type="0" value="1" />
+    <EMMParameter name="MatCol3A" type="0" value="1" />
+    <EMMParameter name="MatScale0X" type="0" value="1" />
+    <EMMParameter name="MatScale0Y" type="0" value="1" />
+    <EMMParameter name="MatScale0Z" type="0" value="1" />
+    <EMMParameter name="MatScale0W" type="0" value="0.03" />
+    <EMMParameter name="MatScale1X" type="0" value="1" />
+    <EMMParameter name="MatScale1Y" type="0" value="1" />
+    <EMMParameter name="MatScale1Z" type="0" value="1" />
+    <EMMParameter name="MatScale1W" type="0" value="1" />
+    <EMMParameter name="Glare" type="65537" value="1" />
+  </EMMMaterial>
+  <EMMMaterial name="shirts" shader_name="TOON_UNIF_STAIN2d2_XVM_DFD">
+    <EMMParameter name="MatCol0R" type="0" value="0" />
+    <EMMParameter name="MatCol0G" type="0" value="0" />
+    <EMMParameter name="MatCol0B" type="0" value="0" />
+    <EMMParameter name="MatCol0A" type="0" value="0.5" />
+    <EMMParameter name="MatCol1R" type="0" value="0" />
+    <EMMParameter name="MatCol1G" type="0" value="0" />
+    <EMMParameter name="MatCol1B" type="0" value="0" />
+    <EMMParameter name="MatCol1A" type="0" value="1" />
+    <EMMParameter name="MatCol3R" type="0" value="0" />
+    <EMMParameter name="MatCol3G" type="0" value="0" />
+    <EMMParameter name="MatCol3B" type="0" value="1" />
+    <EMMParameter name="MatCol3A" type="0" value="1" />
+    <EMMParameter name="MatScale0X" type="0" value="1" />
+    <EMMParameter name="MatScale0Y" type="0" value="1" />
+    <EMMParameter name="MatScale0Z" type="0" value="1" />
+    <EMMParameter name="MatScale0W" type="0" value="0.03" />
+    <EMMParameter name="MatScale1X" type="0" value="0" />
+    <EMMParameter name="MatScale1Y" type="0" value="1" />
+    <EMMParameter name="MatScale1Z" type="0" value="1" />
+    <EMMParameter name="MatScale1W" type="0" value="0.5" />
+    <EMMParameter name="Glare" type="65537" value="1" />
+  </EMMMaterial>
+</EMM>

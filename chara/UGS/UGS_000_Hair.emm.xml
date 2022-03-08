@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<EMM>
+  <EMMMaterial name="hair_Z" shader_name="TOON_UNIF_STAIN1_DFD">
+    <EMMParameter name="MatCol0R" type="0" value="0" />
+    <EMMParameter name="MatCol0G" type="0" value="0" />
+    <EMMParameter name="MatCol0B" type="0" value="0" />
+    <EMMParameter name="MatCol0A" type="0" value="1" />
+    <EMMParameter name="MatScale0X" type="0" value="1" />
+    <EMMParameter name="MatScale0Y" type="0" value="1" />
+    <EMMParameter name="MatScale0Z" type="0" value="1" />
+    <EMMParameter name="MatScale0W" type="0" value="1" />
+    <EMMParameter name="MatScale1X" type="0" value="0" />
+    <EMMParameter name="MatScale1Y" type="0" value="1" />
+    <EMMParameter name="MatScale1Z" type="0" value="1" />
+    <EMMParameter name="MatScale1W" type="0" value="1" />
+  </EMMMaterial>
+  <EMMMaterial name="hair_H" shader_name="TOON_UNIF_STAIN1_DFD">
+    <EMMParameter name="MatCol0R" type="0" value="0" />
+    <EMMParameter name="MatCol0G" type="0" value="0" />
+    <EMMParameter name="MatCol0B" type="0" value="0" />
+    <EMMParameter name="MatCol0A" type="0" value="1" />
+    <EMMParameter name="MatScale0X" type="0" value="1" />
+    <EMMParameter name="MatScale0Y" type="0" value="1" />
+    <EMMParameter name="MatScale0Z" type="0" value="1" />
+    <EMMParameter name="MatScale0W" type="0" value="1" />
+    <EMMParameter name="MatScale1X" type="0" value="0" />
+    <EMMParameter name="MatScale1Y" type="0" value="1" />
+    <EMMParameter name="MatScale1Z" type="0" value="1" />
+    <EMMParameter name="MatScale1W" type="0" value="1" />
+  </EMMMaterial>
+</EMM>

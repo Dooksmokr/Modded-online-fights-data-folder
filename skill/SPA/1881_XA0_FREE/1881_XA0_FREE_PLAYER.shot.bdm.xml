@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BDM Type="XV2_0">
+  <!-- [XV2 Types only] Each BDM SubEntry is for a different activation condition, all known ones are as follows (by Index): -->
+  <!-- 0 = default struck -->
+  <!-- 1 = Unknown -->
+  <!-- 2 = struck while in floating hit animation -->
+  <!-- 3 = struck in back -->
+  <!-- 4 = struck while in rolling hit animation -->
+  <!-- 5 = struck whilst guarding or just guarding -->
+  <!-- 6 = struck while in standard hit animation -->
+  <!-- 7 = Unknown -->
+  <!-- 8 = struck while in heavy stun animation -->
+  <!-- 9 = struck while lying on ground -->
+  <BDM_Entry ID="0">
+    <T0_SubEntry Index="0">
+      <Damage Type="14" Secondary_Type="0x10" Amount="90" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="70" Ground_Impact="40" Recovery_After_Impact="0" Gravity="70" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="20" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="90" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="1">
+      <Damage Type="14" Secondary_Type="0x10" Amount="112" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.03" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="6" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="2">
+      <Damage Type="14" Secondary_Type="0x10" Amount="90" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.03" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="6" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="3">
+      <Damage Type="14" Secondary_Type="0x10" Amount="90" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="70" Ground_Impact="40" Recovery_After_Impact="0" Gravity="70" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="20" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="90" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="4">
+      <Damage Type="14" Secondary_Type="0x10" Amount="90" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.03" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="6" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="5">
+      <Damage Type="14" Secondary_Type="0x10" Amount="90" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="70" Ground_Impact="40" Recovery_After_Impact="0" Gravity="70" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="20" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="90" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="6">
+      <Damage Type="14" Secondary_Type="0x10" Amount="90" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="70" Ground_Impact="40" Recovery_After_Impact="0" Gravity="70" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="20" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="90" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="7">
+      <Damage Type="14" Secondary_Type="0x10" Amount="90" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="70" Ground_Impact="40" Recovery_After_Impact="0" Gravity="70" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="20" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="90" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="8">
+      <Damage Type="14" Secondary_Type="0x10" Amount="90" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="70" Ground_Impact="40" Recovery_After_Impact="0" Gravity="70" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="20" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="90" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="9">
+      <Damage Type="14" Secondary_Type="0x10" Amount="90" Special="17274" />
+      <Sound Type="0" CueID="74" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="140" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="70" Ground_Impact="40" Recovery_After_Impact="0" Gravity="70" />
+      <Knockback_Strength X="0.0" Y="0.01" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="20" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="90" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+  </BDM_Entry>
+  <BDM_Entry ID="1">
+    <T0_SubEntry Index="0">
+      <Damage Type="14" Secondary_Type="0x10" Amount="30" Special="17274" />
+      <Sound Type="0" CueID="55" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="60" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="1">
+      <Damage Type="14" Secondary_Type="0x10" Amount="25" Special="17274" />
+      <Sound Type="0" CueID="55" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="60" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="2">
+      <Damage Type="14" Secondary_Type="0x10" Amount="30" Special="17274" />
+      <Sound Type="0" CueID="55" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="60" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="3">
+      <Damage Type="14" Secondary_Type="0x10" Amount="30" Special="17274" />
+      <Sound Type="0" CueID="55" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="60" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="4">
+      <Damage Type="14" Secondary_Type="0x10" Amount="30" Special="17274" />
+      <Sound Type="0" CueID="55" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="60" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="5">
+      <Damage Type="14" Secondary_Type="0x10" Amount="2" Special="17274" />
+      <Sound Type="0" CueID="-1" />
+      <Effect_1 ID="312" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="0" Ground_Impact="0" Recovery_After_Impact="0" Gravity="0" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.0" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="1" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="0" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="0" />
+      <I_02 value="100" />
+      <I_06 value="200" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="6">
+      <Damage Type="14" Secondary_Type="0x10" Amount="30" Special="17274" />
+      <Sound Type="0" CueID="55" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="60" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="7">
+      <Damage Type="14" Secondary_Type="0x10" Amount="30" Special="17274" />
+      <Sound Type="0" CueID="55" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="60" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="8">
+      <Damage Type="14" Secondary_Type="0x10" Amount="30" Special="17274" />
+      <Sound Type="0" CueID="55" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="60" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+    <T0_SubEntry Index="9">
+      <Damage Type="14" Secondary_Type="0x10" Amount="30" Special="17274" />
+      <Sound Type="0" CueID="55" />
+      <Effect_1 ID="212" Skill_ID="0" Skill_Type="0" />
+      <Effect_2 ID="120" Skill_ID="0" Skill_Type="1" />
+      <Effect_3 ID="-1" Skill_ID="0" Skill_Type="0" />
+      <Pushback Strength="0.25" Acceleration="0.5" />
+      <User_Stun value="10" />
+      <Victim_Stun value="10" />
+      <Knockback_Time Duration="60" Ground_Impact="40" Recovery_After_Impact="0" Gravity="60" />
+      <Knockback_Strength X="0.0" Y="0.0" Z="0.32" />
+      <Knockback_Drag Y="0.0" />
+      <Victim_Invincibility Time="4" />
+      <Aliment_Type value="0" />
+      <Camera_Shake Type="-1" Time="0" />
+      <User_Screen_Flash_Transperancy value="-1" />
+      <Victim_Screen_Flash_Transparency value="-1" />
+      <Stamina_Broken_BDM_ID_Override value="-1" />
+      <Time_Before_Z-Vanish_Enabled value="60" />
+      <User_Animation Time="0" Speed="0.0" />
+      <Victim_Animation Time="0" Speed="0.0" />
+      <Transformation value="0" />
+      <Stumble value="145" />
+      <I_02 value="100" />
+      <I_06 value="0" />
+      <F_08 value="0.2" />
+      <I_22 value="0" />
+      <I_30 value="0" />
+      <I_38 value="0" />
+      <I_58 value="100" />
+      <I_76 value="65535" />
+      <I_82 value="0" />
+      <I_88 int16="0, 0, 0" />
+      <I_96 int16="0, 0" />
+    </T0_SubEntry>
+  </BDM_Entry>
+</BDM>

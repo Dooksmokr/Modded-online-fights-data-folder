@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Grinns's Transformations Main" Author="grinns" Version="1.41.0.0">
+    <Files>
+      <File FilePath="pe/cmn.bpe">
+        <Section FileSection="BPE_Entries" IDs="700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716" />
+      </File>
+      <File FilePath="chara/HUF/HUF.bcs">
+        <Section FileSection="BCS_PartColor_4" IDs="104" />
+        <Section FileSection="BCS_PartColor_5" IDs="104" />
+      </File>
+      <File FilePath="chara/HUM/HUM.bcs">
+        <Section FileSection="BCS_PartColor_4" IDs="104" />
+        <Section FileSection="BCS_PartColor_5" IDs="104" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles>
+      <File FilePath="sound/SE/Battle/Skill/CAR_BTL_GRINNS_GVIL_SE.acb" />
+      <File FilePath="sound/SE/Battle/Skill/CAR_BTL_GRINNS_PTUL_SE.acb" />
+      <File FilePath="sound/SE/Battle/Skill/CAR_BTL_GRINNS_SSB_SE.acb" />
+      <File FilePath="sound/SE/Battle/Skill/CAR_BTL_GRINNS_SSGB_SE.acb" />
+      <File FilePath="sound/SE/Battle/Skill/CAR_BTL_GRINNS_SSJ_SE.acb" />
+      <File FilePath="sound/SE/Battle/Skill/CAR_BTL_POTV_SE.acb" />
+      <File FilePath="sound/SE/Battle/Skill/CAR_BTL_TTNT_SE.acb" />
+      <File FilePath="sound/SE/Battle/Skill/GRINNS_GSJ4_SE.acb" />
+      <File FilePath="chara/HUF/HUF_257_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUF/HUF_257_Face_eye.emb" />
+      <File FilePath="chara/HUF/HUF_257_Face_eye.emd" />
+      <File FilePath="chara/HUF/HUF_257_Face_eye.emm" />
+      <File FilePath="chara/HUF/HUF_258_Bust.dyt.emb" />
+      <File FilePath="chara/HUF/HUF_258_Bust.emb" />
+      <File FilePath="chara/HUF/HUF_258_Bust.emd" />
+      <File FilePath="chara/HUF/HUF_258_Bust.emm" />
+      <File FilePath="chara/HUF/HUF_258_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUF/HUF_258_Face_eye.emb" />
+      <File FilePath="chara/HUF/HUF_258_Face_eye.emd" />
+      <File FilePath="chara/HUF/HUF_258_Face_eye.emm" />
+      <File FilePath="chara/HUF/HUF_258_Face_forehead.dyt.emb" />
+      <File FilePath="chara/HUF/HUF_258_Face_forehead.emd" />
+      <File FilePath="chara/HUF/HUF_258_Face_forehead.emm" />
+      <File FilePath="chara/HUF/HUF_258_Face_forehead.fce.ean" />
+      <File FilePath="chara/HUF/HUF_258_Hair.dyt.emb" />
+      <File FilePath="chara/HUF/HUF_258_Hair.emb" />
+      <File FilePath="chara/HUF/HUF_258_Hair.emd" />
+      <File FilePath="chara/HUF/HUF_258_Hair.emm" />
+      <File FilePath="chara/HUF/HUF_857_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUF/HUF_857_Face_eye.emb" />
+      <File FilePath="chara/HUF/HUF_857_Face_eye.emd" />
+      <File FilePath="chara/HUF/HUF_857_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_257_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_257_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_257_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_257_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_258_Bust.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_258_Bust.emb" />
+      <File FilePath="chara/HUM/HUM_258_Bust.emd" />
+      <File FilePath="chara/HUM/HUM_258_Bust.emm" />
+      <File FilePath="chara/HUM/HUM_258_Face_base.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_258_Face_base.emd" />
+      <File FilePath="chara/HUM/HUM_258_Face_base.emm" />
+      <File FilePath="chara/HUM/HUM_258_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_258_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_258_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_258_Face_eye.emm" />
+      <File FilePath="chara/HUM/HUM_258_Face_forehead.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_258_Face_forehead.emd" />
+      <File FilePath="chara/HUM/HUM_258_Face_forehead.emm" />
+      <File FilePath="chara/HUM/HUM_258_Face_forehead.fce.ean" />
+      <File FilePath="chara/HUM/HUM_258_Hair.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_258_Hair.emb" />
+      <File FilePath="chara/HUM/HUM_258_Hair.emd" />
+      <File FilePath="chara/HUM/HUM_258_Hair.emm" />
+      <File FilePath="chara/HUM/HUM_857_Face_eye.dyt.emb" />
+      <File FilePath="chara/HUM/HUM_857_Face_eye.emb" />
+      <File FilePath="chara/HUM/HUM_857_Face_eye.emd" />
+      <File FilePath="chara/HUM/HUM_857_Face_eye.emm" />
+      <File FilePath="sound/SE/Battle/Skill/GRINNS_SSG_SE.acb" />
+    </JungleFiles>
+  </Mod>
+</TrackingXml>

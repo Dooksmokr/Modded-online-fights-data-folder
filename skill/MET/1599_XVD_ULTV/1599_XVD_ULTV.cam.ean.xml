@@ -1,0 +1,452 @@
+<?xml version="1.0" ?>
+<EAN name="NNNN_CCC_SSSS.cam" unknown_total="37508" type="0x401">
+  <ESK name="" flag="0" unknown_offset_0="0" unknown_offset_1="112" unknown_offset_2="1900697063" unknown_offset_3="175112582" have128unknownBytes="0">
+    <ESKBones>
+      <ESKBone name="Node" unknown_index_4="0">
+        <RelativeTransform>
+          <Position x="0" y="0" z="0" w="0" />
+          <Orientation x="0" y="0" z="0" w="1" />
+          <Scale x="1" y="1" z="1" w="0" />
+        </RelativeTransform>
+      </ESKBone>
+    </ESKBones>
+  </ESK>
+  <EANAnimations>
+    <!--index:0-->
+    <EANAnimation name="GOK_CAM_SS1_00_C" frameCount="181" indexSize="0" floatSize="2">
+      <EANAnimationNodes>
+        <EANAnimationNode BoneName="Node">
+          <EANKeyframedAnimations>
+            <EANKeyframedAnimation type="position">
+              <EANKeyframes>
+                <EANKeyframe frameIndex="0" x="0.370017171" y="1.23144531" z="-1.81579864" w="1.0" />
+                <EANKeyframe frameIndex="1" x="0.370017171" y="1.23315406" z="-1.82483363" w="1.0" />
+                <EANKeyframe frameIndex="2" x="0.370017171" y="1.2377336" z="-1.84904754" w="1.0" />
+                <EANKeyframe frameIndex="3" x="0.370017171" y="1.24436355" z="-1.8841033" w="1.0" />
+                <EANKeyframe frameIndex="4" x="0.370017171" y="1.25222397" z="-1.92566442" w="1.0" />
+                <EANKeyframe frameIndex="5" x="0.370017171" y="1.26049435" z="-1.96939409" w="1.0" />
+                <EANKeyframe frameIndex="6" x="0.370017171" y="1.26835465" z="-2.01095533" w="1.0" />
+                <EANKeyframe frameIndex="7" x="0.370017171" y="1.27498472" z="-2.04601097" w="1.0" />
+                <EANKeyframe frameIndex="8" x="0.370017171" y="1.27956426" z="-2.07022476" w="1.0" />
+                <EANKeyframe frameIndex="9" x="0.370017171" y="1.28127301" z="-2.07925987" w="1.0" />
+                <EANKeyframe frameIndex="10" x="0.370017171" y="1.27986109" z="-2.072124" w="1.0" />
+                <EANKeyframe frameIndex="11" x="0.370017171" y="1.27588785" z="-2.05204439" w="1.0" />
+                <EANKeyframe frameIndex="12" x="0.370017171" y="1.2697475" z="-2.02101183" w="1.0" />
+                <EANKeyframe frameIndex="13" x="0.370017171" y="1.26183403" z="-1.9810183" w="1.0" />
+                <EANKeyframe frameIndex="14" x="0.370017171" y="1.2525413" z="-1.93405497" w="1.0" />
+                <EANKeyframe frameIndex="15" x="0.370017171" y="1.24226356" z="-1.88211298" w="1.0" />
+                <EANKeyframe frameIndex="16" x="0.370017171" y="1.23139477" z="-1.82718408" w="1.0" />
+                <EANKeyframe frameIndex="17" x="0.370017171" y="1.22032893" z="-1.77125955" w="1.0" />
+                <EANKeyframe frameIndex="18" x="0.370017171" y="1.20946014" z="-1.71633065" w="1.0" />
+                <EANKeyframe frameIndex="19" x="0.370017171" y="1.19918227" z="-1.66438866" w="1.0" />
+                <EANKeyframe frameIndex="20" x="0.370017171" y="1.18988967" z="-1.61742532" w="1.0" />
+                <EANKeyframe frameIndex="21" x="0.370017171" y="1.18197608" z="-1.57743156" w="1.0" />
+                <EANKeyframe frameIndex="22" x="0.370017171" y="1.17583585" z="-1.54639935" w="1.0" />
+                <EANKeyframe frameIndex="23" x="0.370017171" y="1.17186272" z="-1.52631974" w="1.0" />
+                <EANKeyframe frameIndex="24" x="0.370017171" y="1.17045069" z="-1.51918375" w="1.0" />
+                <EANKeyframe frameIndex="67" x="0.370017171" y="1.17045069" z="-1.51918375" w="1.0" />
+                <EANKeyframe frameIndex="68" x="0.408416361" y="1.17045069" z="-1.76847863" w="1.0" />
+                <EANKeyframe frameIndex="69" x="0.50441432" y="1.17045069" z="-2.39171624" w="1.0" />
+                <EANKeyframe frameIndex="70" x="0.629211664" y="1.17045069" z="-3.20192456" w="1.0" />
+                <EANKeyframe frameIndex="71" x="0.754009128" y="1.17045069" z="-4.0121336" w="1.0" />
+                <EANKeyframe frameIndex="72" x="0.850007057" y="1.17045069" z="-4.63537121" w="1.0" />
+                <EANKeyframe frameIndex="73" x="0.888406277" y="1.17045069" z="-4.88466549" w="1.0" />
+                <EANKeyframe frameIndex="180" x="0.888406277" y="1.17045069" z="-4.88466549" w="1.0" />
+              </EANKeyframes>
+            </EANKeyframedAnimation>
+            <EANKeyframedAnimation type="targetCameraPosition">
+              <EANKeyframes>
+                <EANKeyframe frameIndex="0" x="-0.259798616" y="0.999486685" z="0.662123799" w="1.0" />
+                <EANKeyframe frameIndex="1" x="-0.259465098" y="1.00107884" z="0.662332356" w="1.0" />
+                <EANKeyframe frameIndex="2" x="-0.258502603" y="1.00567329" z="0.662934482" w="1.0" />
+                <EANKeyframe frameIndex="3" x="-0.256968349" y="1.01299739" z="0.663894236" w="1.0" />
+                <EANKeyframe frameIndex="4" x="-0.254919529" y="1.0227778" z="0.665175796" w="1.0" />
+                <EANKeyframe frameIndex="5" x="-0.252413273" y="1.03474188" z="0.666743517" w="1.0" />
+                <EANKeyframe frameIndex="6" x="-0.249506786" y="1.04861653" z="0.668561637" w="1.0" />
+                <EANKeyframe frameIndex="7" x="-0.24625726" y="1.06412876" z="0.670594335" w="1.0" />
+                <EANKeyframe frameIndex="8" x="-0.242721826" y="1.08100581" z="0.672805846" w="1.0" />
+                <EANKeyframe frameIndex="9" x="-0.238957703" y="1.0989747" z="0.675160348" w="1.0" />
+                <EANKeyframe frameIndex="10" x="-0.235022023" y="1.11776221" z="0.677622259" w="1.0" />
+                <EANKeyframe frameIndex="11" x="-0.230971992" y="1.13709581" z="0.680155694" w="1.0" />
+                <EANKeyframe frameIndex="12" x="-0.226864815" y="1.15670204" z="0.682724893" w="1.0" />
+                <EANKeyframe frameIndex="13" x="-0.222757623" y="1.17630851" z="0.685294032" w="1.0" />
+                <EANKeyframe frameIndex="14" x="-0.218707591" y="1.19564211" z="0.687827349" w="1.0" />
+                <EANKeyframe frameIndex="15" x="-0.214771912" y="1.21442962" z="0.690289319" w="1.0" />
+                <EANKeyframe frameIndex="16" x="-0.211007774" y="1.23239851" z="0.692643881" w="1.0" />
+                <EANKeyframe frameIndex="17" x="-0.207472354" y="1.24927557" z="0.694855392" w="1.0" />
+                <EANKeyframe frameIndex="18" x="-0.204222828" y="1.26478779" z="0.696888089" w="1.0" />
+                <EANKeyframe frameIndex="19" x="-0.201316312" y="1.27866256" z="0.69870609" w="1.0" />
+                <EANKeyframe frameIndex="20" x="-0.194808722" y="1.29462779" z="0.700273871" w="1.0" />
+                <EANKeyframe frameIndex="21" x="-0.196846008" y="1.30032206" z="0.70155555" w="1.0" />
+                <EANKeyframe frameIndex="22" x="-0.192114979" y="1.31084299" z="0.702515244" w="1.0" />
+                <EANKeyframe frameIndex="23" x="-0.1999138" y="1.30667627" z="0.703117251" w="1.0" />
+                <EANKeyframe frameIndex="24" x="-0.167617008" y="1.34023166" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="25" x="-0.195110112" y="1.3127383" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="26" x="-0.169070825" y="1.33877778" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="27" x="-0.181997404" y="1.32585108" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="28" x="-0.234671384" y="1.27317727" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="29" x="-0.165512234" y="1.34233642" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="30" x="-0.255251974" y="1.25259662" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="31" x="-0.187313139" y="1.32053554" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="32" x="-0.139505669" y="1.368343" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="33" x="-0.194842562" y="1.31300592" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="34" x="-0.185031503" y="1.32281709" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="35" x="-0.175334603" y="1.33251405" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="36" x="-0.167878777" y="1.33996987" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="37" x="-0.151273489" y="1.35657513" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="38" x="-0.170782238" y="1.33706629" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="39" x="-0.237727806" y="1.27012086" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="40" x="-0.255702198" y="1.25214648" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="41" x="-0.121043071" y="1.38680553" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="42" x="-0.202618971" y="1.30522966" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="43" x="-0.21954447" y="1.28830409" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="44" x="-0.245634452" y="1.26221418" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="45" x="-0.121233664" y="1.39942193" z="0.701770663" w="1.0" />
+                <EANKeyframe frameIndex="46" x="-0.163621992" y="1.38905084" z="0.697882652" w="1.0" />
+                <EANKeyframe frameIndex="47" x="-0.0783992186" y="1.51589632" z="0.692828178" w="1.0" />
+                <EANKeyframe frameIndex="48" x="-0.0705265775" y="1.56539154" z="0.687773705" w="1.0" />
+                <EANKeyframe frameIndex="49" x="-0.143860683" y="1.52407479" z="0.683885694" w="1.0" />
+                <EANKeyframe frameIndex="50" x="-0.139855057" y="1.54088724" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="64" x="-0.139855057" y="1.54088724" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="65" x="-0.139855057" y="1.54085672" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="66" x="-0.139855057" y="1.54076707" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="67" x="-0.139855057" y="1.54062188" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="68" x="-0.139855057" y="1.54042482" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="69" x="-0.207685083" y="1.47234917" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="70" x="-0.188030407" y="1.49171305" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="71" x="-0.230515629" y="1.44889522" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="72" x="-0.0725458562" y="1.60649455" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="73" x="-0.104698151" y="1.57393694" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="74" x="-0.0686434805" y="1.60955513" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="75" x="-0.185611993" y="1.49212241" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="76" x="-0.126536995" y="1.55070901" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="77" x="-0.0779168904" y="1.59881985" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="78" x="-0.161568403" y="1.51464152" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="79" x="-0.0319849513" y="1.64368451" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="80" x="-0.205954164" y="1.46916437" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="81" x="-0.114147156" y="1.56041336" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="82" x="-0.0602262914" y="1.61377299" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="83" x="-0.239628196" y="1.43380964" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="84" x="-0.0470944904" y="1.62578547" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="85" x="-0.1812208" y="1.49110818" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="86" x="-0.0712680519" y="1.60052025" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="87" x="-0.0962980613" y="1.57496381" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="88" x="-0.152676553" y="1.51807618" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="89" x="-0.0638069808" y="1.60645723" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="90" x="-0.0693949163" y="1.60040498" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="91" x="-0.138845056" y="1.53051829" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="92" x="-0.125852615" y="1.54310548" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="93" x="-0.179743171" y="1.48884428" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="94" x="-0.0607300065" y="1.60752511" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="95" x="-0.11504253" y="1.55292177" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="96" x="-0.0961703956" y="1.5715481" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="97" x="-0.144440532" y="1.52308083" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="98" x="-0.196471572" y="1.47090483" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="99" x="-0.169822067" y="1.49746454" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="100" x="-0.139855057" y="1.5816083" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="101" x="-0.139855057" y="1.59248531" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="102" x="-0.139855057" y="1.59419429" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="103" x="-0.139855057" y="1.46628857" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="104" x="-0.139855057" y="1.4690994" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="105" x="-0.139855057" y="1.47809279" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="106" x="-0.139855057" y="1.50902629" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="107" x="-0.139855057" y="1.51512468" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="108" x="-0.139855057" y="1.56237853" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="109" x="-0.139855057" y="1.58575547" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="110" x="-0.139855057" y="1.52087235" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="111" x="-0.139855057" y="1.54672754" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="112" x="-0.139855057" y="1.52905738" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="113" x="-0.139855057" y="1.51450467" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="114" x="-0.139855057" y="1.52389657" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="115" x="-0.139855057" y="1.50760508" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="116" x="-0.139855057" y="1.53759837" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="117" x="-0.139855057" y="1.52896929" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="118" x="-0.139855057" y="1.52914214" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="119" x="-0.139855057" y="1.52932191" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="120" x="-0.139855057" y="1.52950835" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="121" x="-0.139855057" y="1.52970088" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="122" x="-0.139855057" y="1.52989984" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="123" x="-0.139855057" y="1.53010416" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="124" x="-0.139855057" y="1.53031397" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="125" x="-0.139855057" y="1.53052902" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="126" x="-0.139855057" y="1.53074861" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="127" x="-0.139855057" y="1.53097272" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="128" x="-0.139855057" y="1.53120089" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="129" x="-0.139855057" y="1.53143275" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="130" x="-0.139855057" y="1.53166819" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="131" x="-0.139855057" y="1.53190684" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="132" x="-0.139855057" y="1.53214824" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="133" x="-0.139855057" y="1.53239226" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="134" x="-0.139855057" y="1.53263831" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="135" x="-0.139855057" y="1.53288651" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="136" x="-0.139855057" y="1.53313613" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="137" x="-0.139855057" y="1.53338695" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="138" x="-0.139855057" y="1.53363883" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="139" x="-0.139855057" y="1.53389144" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="140" x="-0.139855057" y="1.53414404" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="141" x="-0.139855057" y="1.53439713" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="142" x="-0.139855057" y="1.53464949" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="143" x="-0.139855057" y="1.53490138" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="144" x="-0.139855057" y="1.5351522" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="145" x="-0.139855057" y="1.53540194" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="146" x="-0.139855057" y="1.53565001" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="147" x="-0.139855057" y="1.5358963" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="148" x="-0.139855057" y="1.53614008" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="149" x="-0.139855057" y="1.53638148" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="150" x="-0.139855057" y="1.53662014" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="151" x="-0.139855057" y="1.53685558" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="152" x="-0.139855057" y="1.53708768" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="153" x="-0.139855057" y="1.53731585" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="154" x="-0.139855057" y="1.53753984" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="155" x="-0.139855057" y="1.53775942" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="156" x="-0.139855057" y="1.53797436" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="157" x="-0.139855057" y="1.53818417" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="158" x="-0.139855057" y="1.53838849" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="159" x="-0.139855057" y="1.53858733" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="160" x="-0.139855057" y="1.53878021" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="161" x="-0.139855057" y="1.53896654" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="162" x="-0.139855057" y="1.53914642" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="163" x="-0.139855057" y="1.53931928" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="164" x="-0.139855057" y="1.53948486" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="165" x="-0.139855057" y="1.53964257" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="166" x="-0.139855057" y="1.53979278" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="167" x="-0.139855057" y="1.53993464" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="168" x="-0.139855057" y="1.54006803" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="169" x="-0.139855057" y="1.54019248" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="170" x="-0.139855057" y="1.54030788" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="171" x="-0.139855057" y="1.54041362" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="172" x="-0.139855057" y="1.54050958" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="173" x="-0.139855057" y="1.54059565" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="174" x="-0.139855057" y="1.54067099" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="175" x="-0.139855057" y="1.54073584" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="176" x="-0.139855057" y="1.5407896" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="177" x="-0.139855057" y="1.54083192" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="178" x="-0.139855057" y="1.54086244" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="179" x="-0.139855057" y="1.54088104" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="180" x="-0.139855057" y="1.54088724" z="0.682330489" w="1.0" />
+              </EANKeyframes>
+            </EANKeyframedAnimation>
+          </EANKeyframedAnimations>
+        </EANAnimationNode>
+      </EANAnimationNodes>
+    </EANAnimation>
+    <!--index:1-->
+    <EANAnimation name="GOK_CAM_SS1_00_C.000" frameCount="181" indexSize="0" floatSize="2">
+      <EANAnimationNodes>
+        <EANAnimationNode BoneName="Node">
+          <EANKeyframedAnimations>
+            <EANKeyframedAnimation type="position">
+              <EANKeyframes>
+                <EANKeyframe frameIndex="0" x="0.370017171" y="1.23144531" z="-1.81579864" w="1.0" />
+                <EANKeyframe frameIndex="1" x="0.370017171" y="1.23315406" z="-1.82483363" w="1.0" />
+                <EANKeyframe frameIndex="2" x="0.370017171" y="1.2377336" z="-1.84904754" w="1.0" />
+                <EANKeyframe frameIndex="3" x="0.370017171" y="1.24436355" z="-1.8841033" w="1.0" />
+                <EANKeyframe frameIndex="4" x="0.370017171" y="1.25222397" z="-1.92566442" w="1.0" />
+                <EANKeyframe frameIndex="5" x="0.370017171" y="1.26049435" z="-1.96939409" w="1.0" />
+                <EANKeyframe frameIndex="6" x="0.370017171" y="1.26835465" z="-2.01095533" w="1.0" />
+                <EANKeyframe frameIndex="7" x="0.370017171" y="1.27498472" z="-2.04601097" w="1.0" />
+                <EANKeyframe frameIndex="8" x="0.370017171" y="1.27956426" z="-2.07022476" w="1.0" />
+                <EANKeyframe frameIndex="9" x="0.370017171" y="1.28127301" z="-2.07925987" w="1.0" />
+                <EANKeyframe frameIndex="10" x="0.370017171" y="1.27986109" z="-2.072124" w="1.0" />
+                <EANKeyframe frameIndex="11" x="0.370017171" y="1.27588785" z="-2.05204439" w="1.0" />
+                <EANKeyframe frameIndex="12" x="0.370017171" y="1.2697475" z="-2.02101183" w="1.0" />
+                <EANKeyframe frameIndex="13" x="0.370017171" y="1.26183403" z="-1.9810183" w="1.0" />
+                <EANKeyframe frameIndex="14" x="0.370017171" y="1.2525413" z="-1.93405497" w="1.0" />
+                <EANKeyframe frameIndex="15" x="0.370017171" y="1.24226356" z="-1.88211298" w="1.0" />
+                <EANKeyframe frameIndex="16" x="0.370017171" y="1.23139477" z="-1.82718408" w="1.0" />
+                <EANKeyframe frameIndex="17" x="0.370017171" y="1.22032893" z="-1.77125955" w="1.0" />
+                <EANKeyframe frameIndex="18" x="0.370017171" y="1.20946014" z="-1.71633065" w="1.0" />
+                <EANKeyframe frameIndex="19" x="0.370017171" y="1.19918227" z="-1.66438866" w="1.0" />
+                <EANKeyframe frameIndex="20" x="0.370017171" y="1.18988967" z="-1.61742532" w="1.0" />
+                <EANKeyframe frameIndex="21" x="0.370017171" y="1.18197608" z="-1.57743156" w="1.0" />
+                <EANKeyframe frameIndex="22" x="0.370017171" y="1.17583585" z="-1.54639935" w="1.0" />
+                <EANKeyframe frameIndex="23" x="0.370017171" y="1.17186272" z="-1.52631974" w="1.0" />
+                <EANKeyframe frameIndex="24" x="0.370017171" y="1.17045069" z="-1.51918375" w="1.0" />
+                <EANKeyframe frameIndex="67" x="0.370017171" y="1.17045069" z="-1.51918375" w="1.0" />
+                <EANKeyframe frameIndex="68" x="0.408416361" y="1.17045069" z="-1.76847863" w="1.0" />
+                <EANKeyframe frameIndex="69" x="0.50441432" y="1.17045069" z="-2.39171624" w="1.0" />
+                <EANKeyframe frameIndex="70" x="0.629211664" y="1.17045069" z="-3.20192456" w="1.0" />
+                <EANKeyframe frameIndex="71" x="0.754009128" y="1.17045069" z="-4.0121336" w="1.0" />
+                <EANKeyframe frameIndex="72" x="0.850007057" y="1.17045069" z="-4.63537121" w="1.0" />
+                <EANKeyframe frameIndex="73" x="0.888406277" y="1.17045069" z="-4.88466549" w="1.0" />
+                <EANKeyframe frameIndex="180" x="0.888406277" y="1.17045069" z="-4.88466549" w="1.0" />
+              </EANKeyframes>
+            </EANKeyframedAnimation>
+            <EANKeyframedAnimation type="targetCameraPosition">
+              <EANKeyframes>
+                <EANKeyframe frameIndex="0" x="-0.259798616" y="0.999486685" z="0.662123799" w="1.0" />
+                <EANKeyframe frameIndex="1" x="-0.259465098" y="1.00107884" z="0.662332356" w="1.0" />
+                <EANKeyframe frameIndex="2" x="-0.258502603" y="1.00567329" z="0.662934482" w="1.0" />
+                <EANKeyframe frameIndex="3" x="-0.256968349" y="1.01299739" z="0.663894236" w="1.0" />
+                <EANKeyframe frameIndex="4" x="-0.254919529" y="1.0227778" z="0.665175796" w="1.0" />
+                <EANKeyframe frameIndex="5" x="-0.252413273" y="1.03474188" z="0.666743517" w="1.0" />
+                <EANKeyframe frameIndex="6" x="-0.249506786" y="1.04861653" z="0.668561637" w="1.0" />
+                <EANKeyframe frameIndex="7" x="-0.24625726" y="1.06412876" z="0.670594335" w="1.0" />
+                <EANKeyframe frameIndex="8" x="-0.242721826" y="1.08100581" z="0.672805846" w="1.0" />
+                <EANKeyframe frameIndex="9" x="-0.238957703" y="1.0989747" z="0.675160348" w="1.0" />
+                <EANKeyframe frameIndex="10" x="-0.235022023" y="1.11776221" z="0.677622259" w="1.0" />
+                <EANKeyframe frameIndex="11" x="-0.230971992" y="1.13709581" z="0.680155694" w="1.0" />
+                <EANKeyframe frameIndex="12" x="-0.226864815" y="1.15670204" z="0.682724893" w="1.0" />
+                <EANKeyframe frameIndex="13" x="-0.222757623" y="1.17630851" z="0.685294032" w="1.0" />
+                <EANKeyframe frameIndex="14" x="-0.218707591" y="1.19564211" z="0.687827349" w="1.0" />
+                <EANKeyframe frameIndex="15" x="-0.214771912" y="1.21442962" z="0.690289319" w="1.0" />
+                <EANKeyframe frameIndex="16" x="-0.211007774" y="1.23239851" z="0.692643881" w="1.0" />
+                <EANKeyframe frameIndex="17" x="-0.207472354" y="1.24927557" z="0.694855392" w="1.0" />
+                <EANKeyframe frameIndex="18" x="-0.204222828" y="1.26478779" z="0.696888089" w="1.0" />
+                <EANKeyframe frameIndex="19" x="-0.201316312" y="1.27866256" z="0.69870609" w="1.0" />
+                <EANKeyframe frameIndex="20" x="-0.194808722" y="1.29462779" z="0.700273871" w="1.0" />
+                <EANKeyframe frameIndex="21" x="-0.196846008" y="1.30032206" z="0.70155555" w="1.0" />
+                <EANKeyframe frameIndex="22" x="-0.192114979" y="1.31084299" z="0.702515244" w="1.0" />
+                <EANKeyframe frameIndex="23" x="-0.1999138" y="1.30667627" z="0.703117251" w="1.0" />
+                <EANKeyframe frameIndex="24" x="-0.167617008" y="1.34023166" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="25" x="-0.195110112" y="1.3127383" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="26" x="-0.169070825" y="1.33877778" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="27" x="-0.181997404" y="1.32585108" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="28" x="-0.234671384" y="1.27317727" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="29" x="-0.165512234" y="1.34233642" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="30" x="-0.255251974" y="1.25259662" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="31" x="-0.187313139" y="1.32053554" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="32" x="-0.139505669" y="1.368343" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="33" x="-0.194842562" y="1.31300592" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="34" x="-0.185031503" y="1.32281709" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="35" x="-0.175334603" y="1.33251405" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="36" x="-0.167878777" y="1.33996987" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="37" x="-0.151273489" y="1.35657513" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="38" x="-0.170782238" y="1.33706629" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="39" x="-0.237727806" y="1.27012086" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="40" x="-0.255702198" y="1.25214648" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="41" x="-0.121043071" y="1.38680553" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="42" x="-0.202618971" y="1.30522966" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="43" x="-0.21954447" y="1.28830409" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="44" x="-0.245634452" y="1.26221418" z="0.703325927" w="1.0" />
+                <EANKeyframe frameIndex="45" x="-0.121233664" y="1.39942193" z="0.701770663" w="1.0" />
+                <EANKeyframe frameIndex="46" x="-0.163621992" y="1.38905084" z="0.697882652" w="1.0" />
+                <EANKeyframe frameIndex="47" x="-0.0783992186" y="1.51589632" z="0.692828178" w="1.0" />
+                <EANKeyframe frameIndex="48" x="-0.0705265775" y="1.56539154" z="0.687773705" w="1.0" />
+                <EANKeyframe frameIndex="49" x="-0.143860683" y="1.52407479" z="0.683885694" w="1.0" />
+                <EANKeyframe frameIndex="50" x="-0.139855057" y="1.54088724" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="64" x="-0.139855057" y="1.54088724" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="65" x="-0.139855057" y="1.54085672" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="66" x="-0.139855057" y="1.54076707" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="67" x="-0.139855057" y="1.54062188" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="68" x="-0.139855057" y="1.54042482" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="69" x="-0.207685083" y="1.47234917" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="70" x="-0.188030407" y="1.49171305" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="71" x="-0.230515629" y="1.44889522" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="72" x="-0.0725458562" y="1.60649455" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="73" x="-0.104698151" y="1.57393694" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="74" x="-0.0686434805" y="1.60955513" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="75" x="-0.185611993" y="1.49212241" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="76" x="-0.126536995" y="1.55070901" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="77" x="-0.0779168904" y="1.59881985" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="78" x="-0.161568403" y="1.51464152" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="79" x="-0.0319849513" y="1.64368451" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="80" x="-0.205954164" y="1.46916437" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="81" x="-0.114147156" y="1.56041336" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="82" x="-0.0602262914" y="1.61377299" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="83" x="-0.239628196" y="1.43380964" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="84" x="-0.0470944904" y="1.62578547" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="85" x="-0.1812208" y="1.49110818" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="86" x="-0.0712680519" y="1.60052025" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="87" x="-0.0962980613" y="1.57496381" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="88" x="-0.152676553" y="1.51807618" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="89" x="-0.0638069808" y="1.60645723" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="90" x="-0.0693949163" y="1.60040498" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="91" x="-0.138845056" y="1.53051829" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="92" x="-0.125852615" y="1.54310548" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="93" x="-0.179743171" y="1.48884428" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="94" x="-0.0607300065" y="1.60752511" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="95" x="-0.11504253" y="1.55292177" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="96" x="-0.0961703956" y="1.5715481" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="97" x="-0.144440532" y="1.52308083" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="98" x="-0.196471572" y="1.47090483" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="99" x="-0.169822067" y="1.49746454" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="100" x="-0.139855057" y="1.5816083" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="101" x="-0.139855057" y="1.59248531" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="102" x="-0.139855057" y="1.59419429" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="103" x="-0.139855057" y="1.46628857" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="104" x="-0.139855057" y="1.4690994" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="105" x="-0.139855057" y="1.47809279" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="106" x="-0.139855057" y="1.50902629" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="107" x="-0.139855057" y="1.51512468" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="108" x="-0.139855057" y="1.56237853" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="109" x="-0.139855057" y="1.58575547" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="110" x="-0.139855057" y="1.52087235" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="111" x="-0.139855057" y="1.54672754" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="112" x="-0.139855057" y="1.52905738" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="113" x="-0.139855057" y="1.51450467" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="114" x="-0.139855057" y="1.52389657" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="115" x="-0.139855057" y="1.50760508" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="116" x="-0.139855057" y="1.53759837" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="117" x="-0.139855057" y="1.52896929" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="118" x="-0.139855057" y="1.52914214" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="119" x="-0.139855057" y="1.52932191" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="120" x="-0.139855057" y="1.52950835" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="121" x="-0.139855057" y="1.52970088" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="122" x="-0.139855057" y="1.52989984" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="123" x="-0.139855057" y="1.53010416" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="124" x="-0.139855057" y="1.53031397" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="125" x="-0.139855057" y="1.53052902" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="126" x="-0.139855057" y="1.53074861" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="127" x="-0.139855057" y="1.53097272" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="128" x="-0.139855057" y="1.53120089" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="129" x="-0.139855057" y="1.53143275" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="130" x="-0.139855057" y="1.53166819" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="131" x="-0.139855057" y="1.53190684" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="132" x="-0.139855057" y="1.53214824" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="133" x="-0.139855057" y="1.53239226" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="134" x="-0.139855057" y="1.53263831" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="135" x="-0.139855057" y="1.53288651" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="136" x="-0.139855057" y="1.53313613" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="137" x="-0.139855057" y="1.53338695" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="138" x="-0.139855057" y="1.53363883" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="139" x="-0.139855057" y="1.53389144" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="140" x="-0.139855057" y="1.53414404" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="141" x="-0.139855057" y="1.53439713" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="142" x="-0.139855057" y="1.53464949" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="143" x="-0.139855057" y="1.53490138" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="144" x="-0.139855057" y="1.5351522" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="145" x="-0.139855057" y="1.53540194" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="146" x="-0.139855057" y="1.53565001" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="147" x="-0.139855057" y="1.5358963" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="148" x="-0.139855057" y="1.53614008" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="149" x="-0.139855057" y="1.53638148" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="150" x="-0.139855057" y="1.53662014" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="151" x="-0.139855057" y="1.53685558" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="152" x="-0.139855057" y="1.53708768" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="153" x="-0.139855057" y="1.53731585" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="154" x="-0.139855057" y="1.53753984" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="155" x="-0.139855057" y="1.53775942" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="156" x="-0.139855057" y="1.53797436" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="157" x="-0.139855057" y="1.53818417" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="158" x="-0.139855057" y="1.53838849" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="159" x="-0.139855057" y="1.53858733" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="160" x="-0.139855057" y="1.53878021" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="161" x="-0.139855057" y="1.53896654" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="162" x="-0.139855057" y="1.53914642" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="163" x="-0.139855057" y="1.53931928" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="164" x="-0.139855057" y="1.53948486" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="165" x="-0.139855057" y="1.53964257" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="166" x="-0.139855057" y="1.53979278" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="167" x="-0.139855057" y="1.53993464" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="168" x="-0.139855057" y="1.54006803" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="169" x="-0.139855057" y="1.54019248" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="170" x="-0.139855057" y="1.54030788" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="171" x="-0.139855057" y="1.54041362" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="172" x="-0.139855057" y="1.54050958" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="173" x="-0.139855057" y="1.54059565" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="174" x="-0.139855057" y="1.54067099" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="175" x="-0.139855057" y="1.54073584" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="176" x="-0.139855057" y="1.5407896" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="177" x="-0.139855057" y="1.54083192" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="178" x="-0.139855057" y="1.54086244" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="179" x="-0.139855057" y="1.54088104" z="0.682330489" w="1.0" />
+                <EANKeyframe frameIndex="180" x="-0.139855057" y="1.54088724" z="0.682330489" w="1.0" />
+              </EANKeyframes>
+            </EANKeyframedAnimation>
+          </EANKeyframedAnimations>
+        </EANAnimationNode>
+      </EANAnimationNodes>
+    </EANAnimation>
+  </EANAnimations>
+</EAN>

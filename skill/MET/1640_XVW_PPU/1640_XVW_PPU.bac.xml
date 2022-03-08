@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BAC>
+    <!--FLAG (applies to most types, unless a specific comment). Flag 1 -> entry applies to CAC; Flag 2 -> entry applies to roster character (that includes pseudo-cacs of cac2x2m)-->
+    <U_14 value="0x0, 0x0, 0x0" />
+    <F_20 value="-0.00817000028, 0.25, -0.00999999978, 0.25, -0.100000001, -0.00999999978, 1.5, 4.5, 4.5, 0.200000003" />
+    <F_48 value="0.0, 0.0" />
+    <U_50 value="0x0, 0x0, 0x0, 0x0" />
+    <BacEntry idx="0" flags="0x0">
+        <Animation>
+            <START_TIME value="0" />
+            <DURATION value="155" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0xfffe" />
+            <EAN_INDEX value="0" />
+            <U_0C value="0x5" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="155" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <TRANSITORY_ANIMATION_CONNECTION_TYPE value="0.0" />
+            <TRANSITORY_ANIMATION_COMPRESSION value="0.25" />
+        </Animation>
+        <Animation>
+            <START_TIME value="0" />
+            <DURATION value="20" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0xa" />
+            <EAN_INDEX value="13" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="0xffff" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <TRANSITORY_ANIMATION_CONNECTION_TYPE value="0.0" />
+            <TRANSITORY_ANIMATION_COMPRESSION value="0.25" />
+        </Animation>
+        <Animation>
+            <START_TIME value="20" />
+            <DURATION value="5" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0xa" />
+            <EAN_INDEX value="0" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="0xffff" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <TRANSITORY_ANIMATION_CONNECTION_TYPE value="0.0" />
+            <TRANSITORY_ANIMATION_COMPRESSION value="0.25" />
+        </Animation>
+        <Animation>
+            <START_TIME value="25" />
+            <DURATION value="9" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0xa" />
+            <EAN_INDEX value="15" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="0xffff" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <TRANSITORY_ANIMATION_CONNECTION_TYPE value="0.0" />
+            <TRANSITORY_ANIMATION_COMPRESSION value="0.200000003" />
+        </Animation>
+        <Animation>
+            <START_TIME value="34" />
+            <DURATION value="18" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0xa" />
+            <EAN_INDEX value="15" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="0xffff" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <TRANSITORY_ANIMATION_CONNECTION_TYPE value="1.0" />
+            <TRANSITORY_ANIMATION_COMPRESSION value="1.0" />
+        </Animation>
+        <Animation>
+            <START_TIME value="52" />
+            <DURATION value="84" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0xa" />
+            <EAN_INDEX value="0" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="0xffff" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <TRANSITORY_ANIMATION_CONNECTION_TYPE value="0.0" />
+            <TRANSITORY_ANIMATION_COMPRESSION value="0.075000003" />
+        </Animation>
+        <Animation>
+            <START_TIME value="136" />
+            <DURATION value="19" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0xa" />
+            <EAN_INDEX value="12" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="0xffff" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <TRANSITORY_ANIMATION_CONNECTION_TYPE value="0.0" />
+            <TRANSITORY_ANIMATION_COMPRESSION value="0.075000003" />
+        </Animation>
+        <Hitbox>
+            <START_TIME value="24" />
+            <DURATION value="8" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BDM_ENTRY value="187" />
+            <HITBOX_FLAGS value="0x0" />
+            <DAMAGE value="0" />
+            <DAMAGE_WHEN_BLOCKED value="0" />
+            <STAMINA_TAKEN_WHEN_BLOCKED value="0" />
+            <U_12 value="0x0" />
+            <BDM_FLAGS value="0x0" />
+            <U_14 value="0x40000, 0x0" />
+            <Matrix3x3>
+                <L0 value="0.0, 0.0, 3.5" />
+                <L1 value="0.0, 0.0, 0.0" />
+                <L2 value="0.0, 0.0, 0.0" />
+            </Matrix3x3>
+        </Hitbox>
+        <Invulnerability>
+            <START_TIME value="0" />
+            <DURATION value="155" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x5" />
+        </Invulnerability>
+        <BcmCallback>
+            <START_TIME value="80" />
+            <DURATION value="8" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BCM_LINK_FLAGS value="0x6680" />
+            <U_0A value="0x0" />
+        </BcmCallback>
+        <BcmCallback>
+            <START_TIME value="88" />
+            <DURATION value="67" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BCM_LINK_FLAGS value="0x6782" />
+            <U_0A value="0x0" />
+        </BcmCallback>
+        <Effect>
+            <START_TIME value="4" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <TYPE value="0x1" />
+            <BONE_LINK value="0x0" />
+            <SKILL_ID value="0xffff" />
+            <!--0: true; 0xffff: false-->
+            <USE_SKILL_ID value="0xffff" />
+            <EFFECT_ID value="200" />
+            <U_14 value="0x0, 0x0, 0x0, 0x0, 0x0, 0x0" />
+            <!--0: on; 1: off-->
+            <ON_OFF_SWITCH value="0" />
+        </Effect>
+        <Effect>
+            <START_TIME value="24" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <TYPE value="0x1" />
+            <BONE_LINK value="0x0" />
+            <SKILL_ID value="0xffff" />
+            <!--0: true; 0xffff: false-->
+            <USE_SKILL_ID value="0xffff" />
+            <EFFECT_ID value="200" />
+            <U_14 value="0x0, 0x0, 0x0, 0x0, 0x0, 0x0" />
+            <!--0: on; 1: off-->
+            <ON_OFF_SWITCH value="0" />
+        </Effect>
+        <Effect>
+            <START_TIME value="28" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <TYPE value="0x1" />
+            <BONE_LINK value="0x0" />
+            <SKILL_ID value="0xffff" />
+            <!--0: true; 0xffff: false-->
+            <USE_SKILL_ID value="0xffff" />
+            <EFFECT_ID value="236" />
+            <U_14 value="0x0, 0x0, 0x0, 0x0, 0x0, 0x0" />
+            <!--0: on; 1: off-->
+            <ON_OFF_SWITCH value="0" />
+        </Effect>
+        <Effect>
+            <START_TIME value="30" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <TYPE value="0x0" />
+            <BONE_LINK value="0x0" />
+            <SKILL_ID value="0xffff" />
+            <!--0: true; 0xffff: false-->
+            <USE_SKILL_ID value="0xffff" />
+            <EFFECT_ID value="31" />
+            <U_14 value="0x0, 0x0, 0x0, 0x0, 0x0, 0x0" />
+            <!--0: on; 1: off-->
+            <ON_OFF_SWITCH value="0" />
+        </Effect>
+        <Camera>
+            <START_TIME value="0" />
+            <DURATION value="174" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <EAN_TO_USE value="0x5" />
+            <BONE_TO_FOCUS_ON value="0x18" />
+            <EAN_INDEX value="0" />
+            <CAMERA_FRAME_START value="0" />
+            <U_10 value="0xffff" />
+            <U_12 value="0x0" />
+            <Z_AXIS_CAMERA_POSITION value="0.0" />
+            <CAMERA_DISP_XZ value="0.0" />
+            <CAMERA_DISP_YZ value="0.0" />
+            <CAMERA_Y_ROT value="0.0" />
+            <CAMERA_X_ROT value="0.0" />
+            <CAMERA_X_POS value="0.0" />
+            <CAMERA_Y_POS value="0.0" />
+            <CAMERA_ZOOM value="0.0" />
+            <CAMERA_Z_ROT value="0.0" />
+            <U_38 value="0x0, 0x0, 0x0, 0x0" />
+            <U_48 value="0x0" />
+            <CAMERA_FLAGS value="0x0" />
+        </Camera>
+        <Sound>
+            <START_TIME value="5" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0x0 -> SE/Battle/Common/CAR_BTL_CMN; 0x2 -> char SE; 0x3 -> char VOX; 0xa -> skill SE; 0xb -> skill VOX-->
+            <ACB_TO_USE value="0x3" />
+            <U_0A value="0x0" />
+            <CUE_ID value="75" />
+            <U_0E value="0x0" />
+        </Sound>
+        <Sound>
+            <START_TIME value="5" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0x0 -> SE/Battle/Common/CAR_BTL_CMN; 0x2 -> char SE; 0x3 -> char VOX; 0xa -> skill SE; 0xb -> skill VOX-->
+            <ACB_TO_USE value="0x0" />
+            <U_0A value="0x0" />
+            <CUE_ID value="29" />
+            <U_0E value="0x0" />
+        </Sound>
+        <Sound>
+            <START_TIME value="33" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0x0 -> SE/Battle/Common/CAR_BTL_CMN; 0x2 -> char SE; 0x3 -> char VOX; 0xa -> skill SE; 0xb -> skill VOX-->
+            <ACB_TO_USE value="0xa" />
+            <U_0A value="0x0" />
+            <CUE_ID value="0" />
+            <U_0E value="0x0" />
+        </Sound>
+        <TransformControl>
+            <START_TIME value="33" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0xd" />
+            <U_0A value="0x0" />
+            <PARAMETER value="0.0" />
+            <F_10 value="0.0, 0.0" />
+            <U_18 value="0x0, 0x0" />
+        </TransformControl>
+        <ScreenEffect>
+            <START_TIME value="1" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BPE_EFFECT_ID value="22" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <U_10 value="0x0, 0x0, 0x0, 0x0" />
+        </ScreenEffect>
+        <ScreenEffect>
+            <START_TIME value="1" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BPE_EFFECT_ID value="70" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <U_10 value="0x0, 0x0, 0x0, 0x0" />
+        </ScreenEffect>
+        <ScreenEffect>
+            <START_TIME value="32" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BPE_EFFECT_ID value="10" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <U_10 value="0x0, 0x0, 0x0, 0x0" />
+        </ScreenEffect>
+        <BACType21>
+            <START_TIME value="20" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <U_08 value="0x0" />
+            <U_0C value="0x4" />
+            <U_0E value="0x7" />
+            <U_10 value="0x6" />
+            <U_12 value="0x0" />
+            <U_14 value="0x78" />
+            <U_16 value="0x0" />
+            <F_18 value="1.0" />
+            <F_1C value="0.5" />
+        </BACType21>
+        <BACType21>
+            <START_TIME value="136" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <U_08 value="0x0" />
+            <U_0C value="0x7" />
+            <U_0E value="0x4" />
+            <U_10 value="0x8" />
+            <U_12 value="0x0" />
+            <U_14 value="0x28" />
+            <U_16 value="0x0" />
+            <F_18 value="0.75" />
+            <F_1C value="1.0" />
+        </BACType21>
+    </BacEntry>
+    <BacEntry idx="1" flags="0x0">
+        <!--This entry is empty.-->
+    </BacEntry>
+    <BacEntry idx="2" flags="0x0">
+        <!--This entry is empty.-->
+    </BacEntry>
+    <BacEntry idx="3" flags="0x0">
+        <Animation>
+            <START_TIME value="0" />
+            <DURATION value="140" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0x5" />
+            <EAN_INDEX value="0" />
+            <U_0C value="0x5" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="10" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <TRANSITORY_ANIMATION_CONNECTION_TYPE value="0.0" />
+            <TRANSITORY_ANIMATION_COMPRESSION value="0.0799999982" />
+        </Animation>
+        <BcmCallback>
+            <START_TIME value="10" />
+            <DURATION value="130" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BCM_LINK_FLAGS value="0xff82" />
+            <U_0A value="0x0" />
+        </BcmCallback>
+        <Effect>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <TYPE value="0x0" />
+            <BONE_LINK value="0x0" />
+            <SKILL_ID value="0xffff" />
+            <!--0: true; 0xffff: false-->
+            <USE_SKILL_ID value="0xffff" />
+            <EFFECT_ID value="605" />
+            <U_14 value="0x0, 0x0, 0x0, 0x0, 0x0, 0x0" />
+            <!--0: on; 1: off-->
+            <ON_OFF_SWITCH value="0" />
+        </Effect>
+        <Sound>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0x0 -> SE/Battle/Common/CAR_BTL_CMN; 0x2 -> char SE; 0x3 -> char VOX; 0xa -> skill SE; 0xb -> skill VOX-->
+            <ACB_TO_USE value="0xa" />
+            <U_0A value="0x0" />
+            <CUE_ID value="1" />
+            <U_0E value="0x0" />
+        </Sound>
+        <TransformControl>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0xe" />
+            <U_0A value="0x0" />
+            <PARAMETER value="0.0" />
+            <F_10 value="0.0, 0.0" />
+            <U_18 value="0x0, 0x0" />
+        </TransformControl>
+        <TransformControl>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x6" />
+            <U_0A value="0x0" />
+            <PARAMETER value="0.0" />
+            <F_10 value="0.0, 0.0" />
+            <U_18 value="0x0, 0x0" />
+        </TransformControl>
+    </BacEntry>
+    <BacEntry idx="4" flags="0x0">
+        <Animation>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0x5" />
+            <EAN_INDEX value="1" />
+            <U_0C value="0x5" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="10" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <TRANSITORY_ANIMATION_CONNECTION_TYPE value="0.0" />
+            <TRANSITORY_ANIMATION_COMPRESSION value="0.0799999982" />
+        </Animation>
+        <BcmCallback>
+            <START_TIME value="10" />
+            <DURATION value="130" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BCM_LINK_FLAGS value="0xdf82" />
+            <U_0A value="0x0" />
+        </BcmCallback>
+        <Effect>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <TYPE value="0x0" />
+            <BONE_LINK value="0x0" />
+            <SKILL_ID value="0xffff" />
+            <!--0: true; 0xffff: false-->
+            <USE_SKILL_ID value="0xffff" />
+            <EFFECT_ID value="605" />
+            <U_14 value="0x0, 0x0, 0x0, 0x0, 0x0, 0x0" />
+            <!--0: on; 1: off-->
+            <ON_OFF_SWITCH value="0" />
+        </Effect>
+        <Sound>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0x0 -> SE/Battle/Common/CAR_BTL_CMN; 0x2 -> char SE; 0x3 -> char VOX; 0xa -> skill SE; 0xb -> skill VOX-->
+            <ACB_TO_USE value="0xa" />
+            <U_0A value="0x0" />
+            <CUE_ID value="1" />
+            <U_0E value="0x0" />
+        </Sound>
+        <TransformControl>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0xe" />
+            <U_0A value="0x0" />
+            <PARAMETER value="0.0" />
+            <F_10 value="0.0, 0.0" />
+            <U_18 value="0x0, 0x0" />
+        </TransformControl>
+        <TransformControl>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x6" />
+            <U_0A value="0x0" />
+            <PARAMETER value="0.0" />
+            <F_10 value="0.0, 0.0" />
+            <U_18 value="0x0, 0x0" />
+        </TransformControl>
+    </BacEntry>
+    <BacEntry idx="5" flags="0x0">
+        <!--This entry is empty.-->
+    </BacEntry>
+</BAC>

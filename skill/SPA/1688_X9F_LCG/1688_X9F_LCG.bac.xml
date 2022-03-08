@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BAC>
+    <!--FLAG (applies to most types, unless a specific comment). Flag 1 -> entry applies to CAC; Flag 2 -> entry applies to roster character (that includes pseudo-cacs of cac2x2m)-->
+    <U_14 value="0x0, 0x0, 0x0" />
+    <F_20 value="-0.00817000028, 0.25, -0.00999999978, 0.25, -0.100000001, -0.00999999978, 1.5, 4.5, 4.5, 0.200000003" />
+    <F_48 value="0.0, 0.0" />
+    <U_50 value="0x0, 0x0, 0x0, 0x0" />
+    <BacEntry idx="0" flags="0x0">
+        <Animation>
+            <START_TIME value="0" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0 -> CMN.ean; 0xfffe -> skill ean; 0x5: char ean-->
+            <!--Other possible values: 0x9 -> unknown, frequently appears in victim throw entries; 0xa -> fce.ean?; 0xb -> fce.lips.ean-->
+            <EAN_TO_USE value="0xfffe" />
+            <EAN_INDEX value="0" />
+            <U_0C value="0x7" />
+            <U_0E value="0x0" />
+            <FRAME_START value="0" />
+            <FRAME_END value="0xffff" />
+            <FRAME_LOOP_START value="0xffff" />
+            <U_16 value="0xffff" />
+            <SPEED value="1.0" />
+            <F_1C value="0.0" />
+            <F_20 value="0.25" />
+        </Animation>
+        <Hitbox>
+            <START_TIME value="22" />
+            <DURATION value="20" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BDM_ENTRY value="0" />
+            <HITBOX_FLAGS value="0x0" />
+            <DAMAGE value="10" />
+            <STAMINA_TAKEN_WHEN_BLOCKED value="10" />
+            <BDM_FLAGS value="0x200" />
+            <U_14 value="0x40000, 0x0" />
+            <Matrix3x3>
+                <L0 value="0.0, 0.0, 1.5" />
+                <L1 value="0.0, 0.0, 0.0" />
+                <L2 value="0.0, 0.0, 0.0" />
+            </Matrix3x3>
+        </Hitbox>
+        <Hitbox>
+            <START_TIME value="22" />
+            <DURATION value="20" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BDM_ENTRY value="0" />
+            <HITBOX_FLAGS value="0x8" />
+            <DAMAGE value="10" />
+            <STAMINA_TAKEN_WHEN_BLOCKED value="10" />
+            <BDM_FLAGS value="0x200" />
+            <U_14 value="0x40000, 0x0" />
+            <Matrix3x3>
+                <L0 value="0.0, 0.0, 1.5" />
+                <L1 value="0.0, 0.0, 0.0" />
+                <L2 value="0.0, 0.0, 0.0" />
+            </Matrix3x3>
+        </Hitbox>
+        <Hitbox>
+            <START_TIME value="68" />
+            <DURATION value="16" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BDM_ENTRY value="1" />
+            <HITBOX_FLAGS value="0x0" />
+            <DAMAGE value="0" />
+            <STAMINA_TAKEN_WHEN_BLOCKED value="0" />
+            <BDM_FLAGS value="0x200" />
+            <U_14 value="0x40000, 0x0" />
+            <Matrix3x3>
+                <L0 value="0.0, 0.0, 2.20000005" />
+                <L1 value="0.0, 0.0, 0.0" />
+                <L2 value="0.0, 0.0, 0.0" />
+            </Matrix3x3>
+        </Hitbox>
+        <Hitbox>
+            <START_TIME value="68" />
+            <DURATION value="16" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BDM_ENTRY value="1" />
+            <HITBOX_FLAGS value="0x8" />
+            <DAMAGE value="0" />
+            <STAMINA_TAKEN_WHEN_BLOCKED value="0" />
+            <BDM_FLAGS value="0x200" />
+            <U_14 value="0x40000, 0x0" />
+            <Matrix3x3>
+                <L0 value="0.0, 0.0, 2.20000005" />
+                <L1 value="0.0, 0.0, 0.0" />
+                <L2 value="0.0, 0.0, 0.0" />
+            </Matrix3x3>
+        </Hitbox>
+        <Invulnerability>
+            <START_TIME value="12" />
+            <DURATION value="29" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x5" />
+        </Invulnerability>
+        <BcmCallback>
+            <START_TIME value="136" />
+            <DURATION value="3" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <U_08 value="0x2" />
+            <U_0A value="0x0" />
+        </BcmCallback>
+        <Effect>
+            <START_TIME value="28" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <TYPE value="0x3" />
+            <BONE_LINK value="0x0" />
+            <SKILL_ID value="532" />
+            <!--0: true; 0xffff: false-->
+            <USE_SKILL_ID value="0x0" />
+            <EFFECT_ID value="0" />
+            <U_14 value="0x0, 0x0, 0x0, 0x0, 0x0, 0x0" />
+            <!--0: on; 1: off-->
+            <ON_OFF_SWITCH value="0" />
+        </Effect>
+        <Effect>
+            <START_TIME value="42" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <TYPE value="0x3" />
+            <BONE_LINK value="0x0" />
+            <SKILL_ID value="532" />
+            <!--0: true; 0xffff: false-->
+            <USE_SKILL_ID value="0x0" />
+            <EFFECT_ID value="0" />
+            <U_14 value="0x0, 0x0, 0x0, 0x0, 0x0, 0x0" />
+            <!--0: on; 1: off-->
+            <ON_OFF_SWITCH value="1" />
+        </Effect>
+        <HAS_DUMMY9 value="1" />
+        <Sound>
+            <START_TIME value="20" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0x0 -> SE/Battle/Common/CAR_BTL_CMN; 0x2 -> char SE; 0x3 -> char VOX; 0xa -> skill SE; 0xb -> skill VOX-->
+            <ACB_TO_USE value="0x3" />
+            <U_0A value="0x0" />
+            <CUE_ID value="46" />
+            <U_0E value="0x0" />
+        </Sound>
+        <Sound>
+            <START_TIME value="20" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0x0 -> SE/Battle/Common/CAR_BTL_CMN; 0x2 -> char SE; 0x3 -> char VOX; 0xa -> skill SE; 0xb -> skill VOX-->
+            <ACB_TO_USE value="0xa" />
+            <U_0A value="0x8" />
+            <CUE_ID value="1" />
+            <U_0E value="0x0" />
+        </Sound>
+        <Sound>
+            <START_TIME value="70" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0x0 -> SE/Battle/Common/CAR_BTL_CMN; 0x2 -> char SE; 0x3 -> char VOX; 0xa -> skill SE; 0xb -> skill VOX-->
+            <ACB_TO_USE value="0x3" />
+            <U_0A value="0x0" />
+            <CUE_ID value="49" />
+            <U_0E value="0x0" />
+        </Sound>
+        <Sound>
+            <START_TIME value="84" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <!--0x0 -> SE/Battle/Common/CAR_BTL_CMN; 0x2 -> char SE; 0x3 -> char VOX; 0xa -> skill SE; 0xb -> skill VOX-->
+            <ACB_TO_USE value="0xa" />
+            <U_0A value="0x0" />
+            <CUE_ID value="0" />
+            <U_0E value="0x0" />
+        </Sound>
+        <BACType12>
+            <START_TIME value="66" />
+            <DURATION value="69" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <U_08 value="0x1" />
+            <U_0A value="0x0" />
+        </BACType12>
+        <TransformControl>
+            <START_TIME value="22" />
+            <DURATION value="19" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x4" />
+            <U_0A value="0x0" />
+            <PARAMETER value="-2.08332992" />
+            <F_10 value="0.0, 0.0" />
+            <U_18 value="0x0, 0x0" />
+        </TransformControl>
+        <TransformControl>
+            <START_TIME value="22" />
+            <DURATION value="19" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x16" />
+            <U_0A value="0x0" />
+            <PARAMETER value="-2.08332992" />
+            <F_10 value="0.0, 0.0" />
+            <U_18 value="0x0, 0x0" />
+        </TransformControl>
+        <TransformControl>
+            <START_TIME value="25" />
+            <DURATION value="16" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x0" />
+            <U_0A value="0x0" />
+            <PARAMETER value="0.0" />
+            <F_10 value="0.0, 0.0" />
+            <U_18 value="0x0, 0x0" />
+        </TransformControl>
+        <ScreenEffect>
+            <START_TIME value="70" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <BPE_EFFECT_ID value="23" />
+            <U_0C value="0x0" />
+            <U_0E value="0x0" />
+            <U_10 value="0x0, 0x0, 0x0, 0x0" />
+        </ScreenEffect>
+		<AuraEffect>
+            <START_TIME value="28" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x3" />
+            <ON_OFF_SWITCH value="0x0" />
+            <U_0C value="0x0" />
+        </AuraEffect>
+		<AuraEffect>
+            <START_TIME value="42" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x3" />
+            <ON_OFF_SWITCH value="0x0" />
+            <U_0C value="0x1" />
+        </AuraEffect>
+		<AuraEffect>
+            <START_TIME value="70" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x4" />
+            <ON_OFF_SWITCH value="0x0" />
+            <U_0C value="0x0" />
+        </AuraEffect>
+		<AuraEffect>
+            <START_TIME value="75" />
+            <DURATION value="1" />
+            <U_04 value="0x0" />
+            <FLAGS value="0x0" />
+            <TYPE value="0x4" />
+            <ON_OFF_SWITCH value="0x1" />
+            <U_0C value="0x1" />
+        </AuraEffect>
+    </BacEntry>
+    <BacEntry idx="1" flags="0x0">
+        <!--This entry is empty.-->
+    </BacEntry>
+    <BacEntry idx="2" flags="0x0">
+        <!--This entry is empty.-->
+    </BacEntry>
+    <BacEntry idx="3" flags="0x0">
+        <!--This entry is empty.-->
+    </BacEntry>
+    <BacEntry idx="4" flags="0x0">
+        <!--This entry is empty.-->
+    </BacEntry>
+    <BacEntry idx="5" flags="0x0">
+        <!--This entry is empty.-->
+    </BacEntry>
+</BAC>

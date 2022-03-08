@@ -47,4 +47,62 @@
         <PARTSETS value="559" />
         <RACES value="0" />
     </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="0dcefa9a-8100-2da3-18d1-e2792e810ebb" />
+        <PARTSETS value="560" />
+        <RACES value="3" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="51e11326-c5f5-2251-568b-b5f2fb557689" />
+        <PARTSETS value="561" />
+        <RACES value="0, 1, 2, 3, 5" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="2e0fcd53-5d84-b73f-085c-5f1684954372" />
+        <PARTSETS value="562" />
+        <RACES value="0, 1" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="019c5e66-30e0-bcbc-0687-4d77ca6c5cb7" />
+        <PARTSETS value="563, 564, 565, 566, 567, 568" />
+        <RACES value="0, 1" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="10fb9d0b-e211-fbb4-7db5-f002f847cf05" />
+        <PARTSETS value="569" />
+        <RACES value="1" />
+        <IDB_ENTRIES value="0x15a, 0x15b, 0x15c" />
+        <COSTUME_TYPES value="0, 1, 3" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="f9d4a3f5-c595-cc70-48de-6f6afef5af1f" />
+        <PARTSETS value="570" />
+        <RACES value="1" />
+        <IDB_ENTRIES value="0x15d" />
+        <COSTUME_TYPES value="0" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="2c3abeff-37ff-26a8-778e-709916a7bba8" />
+        <PARTSETS value="571" />
+        <RACES value="1" />
+        <IDB_ENTRIES value="0x15e" />
+        <COSTUME_TYPES value="0" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="1a6379d0-94e6-ab7f-2b4a-37877817d213" />
+        <PARTSETS value="572" />
+        <RACES value="0, 1" />
+        <IDB_ENTRIES value="0xa1" />
+        <COSTUME_TYPES value="4" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="9fa51f06-8458-17a0-a466-ecd82ac3d73a" />
+        <PARTSETS value="573" />
+        <RACES value="1" />
+    </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="6f2b3bde-b58c-aec4-06b6-1062baab6a13" />
+        <PARTSETS value="575" />
+        <RACES value="1" />
+    </X2mCostumeEntry>
 </X2mCostumeFile>

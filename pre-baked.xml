@@ -631,13 +631,13 @@
         <TTC_FILES value="PIC" />
     </Alias>
     <ColorsMap cms_id="0xa5" costume="0">
-        <SKIN_ value="104" />
         <CC01_PANTS_ value="68" />
+        <SKIN_ value="104" />
         <eye_ value="68" />
-        <HAIR_ value="68" />
         <CC00_BUST_ value="63" />
-        <CC01_BUST_ value="68" />
+        <HAIR_ value="68" />
         <CC00_PANTS_ value="63" />
+        <CC01_BUST_ value="68" />
         <CC02_BUST_ value="68" />
         <CC03_BUST_ value="63" />
         <CC02_PANTS_ value="63" />
@@ -652,13 +652,13 @@
         <CC03_BOOTS_ value="68" />
     </ColorsMap>
     <ColorsMap cms_id="0xa5" costume="1">
-        <SKIN_ value="104" />
         <CC01_PANTS_ value="68" />
+        <SKIN_ value="104" />
         <eye_ value="68" />
-        <HAIR_ value="68" />
         <CC00_BUST_ value="63" />
-        <CC01_BUST_ value="68" />
+        <HAIR_ value="68" />
         <CC00_PANTS_ value="63" />
+        <CC01_BUST_ value="68" />
         <CC02_BUST_ value="68" />
         <CC03_BUST_ value="63" />
         <CC02_PANTS_ value="63" />
@@ -673,13 +673,13 @@
         <CC03_BOOTS_ value="68" />
     </ColorsMap>
     <ColorsMap cms_id="0xa5" costume="2">
-        <SKIN_ value="104" />
         <CC01_PANTS_ value="68" />
+        <SKIN_ value="104" />
         <eye_ value="68" />
-        <HAIR_ value="68" />
         <CC00_BUST_ value="68" />
-        <CC01_BUST_ value="68" />
+        <HAIR_ value="68" />
         <CC00_PANTS_ value="63" />
+        <CC01_BUST_ value="68" />
         <CC02_BUST_ value="63" />
         <CC03_BUST_ value="63" />
         <CC02_PANTS_ value="63" />

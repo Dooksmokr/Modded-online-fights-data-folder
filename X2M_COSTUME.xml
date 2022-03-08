@@ -105,4 +105,11 @@
         <PARTSETS value="575" />
         <RACES value="1" />
     </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="8a393e03-d44f-cfbf-11d1-ee86245687c1" />
+        <PARTSETS value="574" />
+        <RACES value="0, 3" />
+        <IDB_ENTRIES value="0x15f, 0x160, 0x161, 0x162" />
+        <COSTUME_TYPES value="0, 1, 3, 2" />
+    </X2mCostumeEntry>
 </X2mCostumeFile>

@@ -117,4 +117,9 @@
         <PARTSETS value="576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587" />
         <RACES value="0, 1" />
     </X2mCostumeEntry>
+    <X2mCostumeEntry>
+        <GUID value="2dc8e339-b1b1-1e3b-461e-b05d08fb59fd" />
+        <PARTSETS value="588" />
+        <RACES value="3" />
+    </X2mCostumeEntry>
 </X2mCostumeFile>

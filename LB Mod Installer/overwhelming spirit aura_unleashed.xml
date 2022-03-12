@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Overwhelming Spirit Aura" Author="Unleashed" Version="1.0.0.0">
+    <Files>
+      <File FilePath="vfx/cmn/BTL_AURA.eepk">
+        <Section FileSection="EEPK_Effect" IDs="4466" />
+      </File>
+      <File FilePath="pe/cmn.bpe">
+        <Section FileSection="BPE_Entries" IDs="466" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles />
+  </Mod>
+</TrackingXml>

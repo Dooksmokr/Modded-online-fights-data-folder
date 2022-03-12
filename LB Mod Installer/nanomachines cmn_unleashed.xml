@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Nanomachines CMN" Author="Unleashed" Version="1.2.0.0">
+    <Files>
+      <File FilePath="chara/CMN/CMN.ean">
+        <Section FileSection="EAN_Animations" IDs="238" />
+      </File>
+      <File FilePath="skill/ULT/1824_XZ8_NNMC/1824_XZ8_NNMC.bac">
+        <Section FileSection="BAC_Entries" IDs="2" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles />
+  </Mod>
+</TrackingXml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<EMM>
+  <!--index:0-->
+  <EMMMaterial name="eye_L" shaderProgram="TOON_UNIF_EYE_MUT3_DFD">
+    <EMMParameter name="TexScrl0U" type="Float" value="2.25e-005" />
+    <EMMParameter name="TexScrl0V" type="Float" value="-1.425e-005" />
+    <EMMParameter name="MatCol0R" type="Float" value="0" />
+    <EMMParameter name="MatCol0G" type="Float" value="0" />
+    <EMMParameter name="MatCol0B" type="Float" value="0" />
+    <EMMParameter name="MatCol0A" type="Float" value="0.45" />
+    <EMMParameter name="MatCol1R" type="Float" value="0.81" />
+    <EMMParameter name="MatCol1G" type="Float" value="0.85" />
+    <EMMParameter name="MatCol1B" type="Float" value="0.9" />
+    <EMMParameter name="MatCol1A" type="Float" value="0.4" />
+    <EMMParameter name="MatCol2R" type="Float" value="1" />
+    <EMMParameter name="MatCol2G" type="Float" value="1" />
+    <EMMParameter name="MatCol2B" type="Float" value="1" />
+    <EMMParameter name="MatCol2A" type="Float" value="0.5" />
+    <EMMParameter name="MatCol3R" type="Float" value="1" />
+    <EMMParameter name="MatCol3G" type="Float" value="1" />
+    <EMMParameter name="MatCol3B" type="Float" value="1" />
+    <EMMParameter name="MatCol3A" type="Float" value="0.5" />
+    <EMMParameter name="MatScale0X" type="Float" value="1" />
+    <EMMParameter name="MatScale0Y" type="Float" value="1" />
+    <EMMParameter name="MatScale0Z" type="Float" value="1" />
+    <EMMParameter name="MatScale0W" type="Float" value="0.03" />
+    <EMMParameter name="MatScale1X" type="Float" value="0" />
+    <EMMParameter name="MatScale1Y" type="Float" value="1" />
+    <EMMParameter name="MatScale1Z" type="Float" value="1" />
+    <EMMParameter name="MatScale1W" type="Float" value="1" />
+  </EMMMaterial>
+  <!--index:1-->
+  <EMMMaterial name="eye_R" shaderProgram="TOON_UNIF_EYE_MUT3_DFD">
+    <EMMParameter name="TexScrl0U" type="Float" value="-2.25e-005" />
+    <EMMParameter name="TexScrl0V" type="Float" value="-1.425e-005" />
+    <EMMParameter name="MatCol0R" type="Float" value="0" />
+    <EMMParameter name="MatCol0G" type="Float" value="0" />
+    <EMMParameter name="MatCol0B" type="Float" value="0" />
+    <EMMParameter name="MatCol0A" type="Float" value="0.45" />
+    <EMMParameter name="MatCol1R" type="Float" value="0.81" />
+    <EMMParameter name="MatCol1G" type="Float" value="0.85" />
+    <EMMParameter name="MatCol1B" type="Float" value="0.9" />
+    <EMMParameter name="MatCol1A" type="Float" value="0.4" />
+    <EMMParameter name="MatCol2R" type="Float" value="1" />
+    <EMMParameter name="MatCol2G" type="Float" value="1" />
+    <EMMParameter name="MatCol2B" type="Float" value="1" />
+    <EMMParameter name="MatCol2A" type="Float" value="0.5" />
+    <EMMParameter name="MatCol3R" type="Float" value="1" />
+    <EMMParameter name="MatCol3G" type="Float" value="1" />
+    <EMMParameter name="MatCol3B" type="Float" value="1" />
+    <EMMParameter name="MatCol3A" type="Float" value="0.5" />
+    <EMMParameter name="MatScale0X" type="Float" value="1" />
+    <EMMParameter name="MatScale0Y" type="Float" value="1" />
+    <EMMParameter name="MatScale0Z" type="Float" value="1" />
+    <EMMParameter name="MatScale0W" type="Float" value="0.03" />
+    <EMMParameter name="MatScale1X" type="Float" value="0" />
+    <EMMParameter name="MatScale1Y" type="Float" value="1" />
+    <EMMParameter name="MatScale1Z" type="Float" value="1" />
+    <EMMParameter name="MatScale1W" type="Float" value="1" />
+  </EMMMaterial>
+</EMM>

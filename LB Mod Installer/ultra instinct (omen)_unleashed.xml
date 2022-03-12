@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Ultra Instinct (Omen)" Author="Unleashed" Version="1.0.0.0">
+    <Files>
+      <File FilePath="chara/CMN/CMN.ean">
+        <Section FileSection="EAN_Animations" IDs="239,240,241" />
+      </File>
+      <File FilePath="chara/CMN/CMN.bac">
+        <Section FileSection="BAC_Entries" IDs="260,261,262,263,264" />
+      </File>
+      <File FilePath="system/item/talisman_item.idb">
+        <Section FileSection="IDB_Entries" IDs="9966" />
+      </File>
+    </Files>
+    <MsgComponents>
+      <File FilePath="msg/proper_noun_talisman_name_">
+        <Section FileSection="MSG_Entries" IDs="1056" />
+      </File>
+      <File FilePath="msg/proper_noun_talisman_info_">
+        <Section FileSection="MSG_Entries" IDs="213" />
+      </File>
+      <File FilePath="msg/proper_noun_talisman_info_olt_">
+        <Section FileSection="MSG_Entries" IDs="52" />
+      </File>
+      <File FilePath="msg/quest_btlhud_">
+        <Section FileSection="MSG_Entries" IDs="228" />
+      </File>
+    </MsgComponents>
+    <JungleFiles />
+  </Mod>
+</TrackingXml>

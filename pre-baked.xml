@@ -769,6 +769,76 @@
         <BCS_HAIR_COLOR value="0xffffffff" />
         <BCS_EYES_COLOR value="0xffffffff" />
     </CusAuraData>
+    <CusAuraData cus_aura_id="0x74" aur_aura_id="0x24">
+        <BEHAVIOUR_11 value="0x2" />
+        <INTEGER_2 value="3" />
+        <BEHAVIOUR_10 value="0x2" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x2" />
+        <BEHAVIOUR_66 value="15" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="0xffffffff" />
+        <BCS_EYES_COLOR value="0xffffffff" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x75" aur_aura_id="0x24">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="1" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <BEHAVIOUR_66 value="15" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="5" />
+        <BCS_EYES_COLOR value="4" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x76" aur_aura_id="0x2d">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="1" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <BEHAVIOUR_66 value="15" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="78" />
+        <BCS_EYES_COLOR value="85" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x77" aur_aura_id="0x2d">
+        <BEHAVIOUR_11 value="0x0" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0x0" />
+        <INTEGER_3 value="1" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x0" />
+        <BEHAVIOUR_66 value="15" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="0xffffffff" />
+        <BCS_EYES_COLOR value="0xffffffff" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x78" aur_aura_id="0x24">
+        <BEHAVIOUR_11 value="0x2" />
+        <INTEGER_2 value="2" />
+        <BEHAVIOUR_10 value="0x2" />
+        <INTEGER_3 value="3" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0x2" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="0" />
+        <BCS_EYES_COLOR value="5" />
+    </CusAuraData>
+    <CusAuraData cus_aura_id="0x79" aur_aura_id="0x68">
+        <BEHAVIOUR_11 value="0xa" />
+        <INTEGER_2 value="0" />
+        <BEHAVIOUR_10 value="0xa" />
+        <INTEGER_3 value="0" />
+        <FORCE_TELEPORT value="false" />
+        <BEHAVIOUR_13 value="0xa" />
+        <REMOVE_HAIR_ACCESSORIES value="0xff" />
+        <BCS_HAIR_COLOR value="0xffffffff" />
+        <BCS_EYES_COLOR value="0xffffffff" />
+    </CusAuraData>
     <Alias cms_id="0xa1" cms_name="GBE">
         <TTC_FILES value="GKB" />
     </Alias>
@@ -784,14 +854,20 @@
     <Alias cms_id="0xb9" cms_name="TM5">
         <TTC_FILES value="TM0" />
     </Alias>
+    <Alias cms_id="0xc2" cms_name="GWG">
+        <TTC_FILES value="GOK" />
+    </Alias>
+    <Alias cms_id="0xc3" cms_name="BSV">
+        <TTC_FILES value="VGT" />
+    </Alias>
     <ColorsMap cms_id="0xa5" costume="0">
-        <CC01_PANTS_ value="68" />
         <SKIN_ value="104" />
+        <CC01_PANTS_ value="68" />
         <eye_ value="68" />
-        <CC00_BUST_ value="63" />
         <HAIR_ value="68" />
-        <CC00_PANTS_ value="63" />
+        <CC00_BUST_ value="63" />
         <CC01_BUST_ value="68" />
+        <CC00_PANTS_ value="63" />
         <CC02_BUST_ value="68" />
         <CC03_BUST_ value="63" />
         <CC02_PANTS_ value="63" />
@@ -806,13 +882,13 @@
         <CC03_BOOTS_ value="68" />
     </ColorsMap>
     <ColorsMap cms_id="0xa5" costume="1">
-        <CC01_PANTS_ value="68" />
         <SKIN_ value="104" />
+        <CC01_PANTS_ value="68" />
         <eye_ value="68" />
-        <CC00_BUST_ value="63" />
         <HAIR_ value="68" />
-        <CC00_PANTS_ value="63" />
+        <CC00_BUST_ value="63" />
         <CC01_BUST_ value="68" />
+        <CC00_PANTS_ value="63" />
         <CC02_BUST_ value="68" />
         <CC03_BUST_ value="63" />
         <CC02_PANTS_ value="63" />
@@ -827,13 +903,13 @@
         <CC03_BOOTS_ value="68" />
     </ColorsMap>
     <ColorsMap cms_id="0xa5" costume="2">
-        <CC01_PANTS_ value="68" />
         <SKIN_ value="104" />
+        <CC01_PANTS_ value="68" />
         <eye_ value="68" />
-        <CC00_BUST_ value="68" />
         <HAIR_ value="68" />
-        <CC00_PANTS_ value="63" />
+        <CC00_BUST_ value="68" />
         <CC01_BUST_ value="68" />
+        <CC00_PANTS_ value="63" />
         <CC02_BUST_ value="63" />
         <CC03_BUST_ value="63" />
         <CC02_PANTS_ value="63" />

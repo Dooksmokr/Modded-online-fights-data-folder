@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrackingXml>
+  <!-- For tracking installed file entries so that they can be updated and uninstalled. -->
+  <Mod Name="Energy Rampage CMN" Author="Unleashed" Version="1.0.0.0">
+    <Files>
+      <File FilePath="chara/CMN/CMN.ean">
+        <Section FileSection="EAN_Animations" IDs="236" />
+      </File>
+      <File FilePath="skill/ULT/1688_X9F_KLST/1688_X9F_KLST.bac">
+        <Section FileSection="BAC_Entries" IDs="2" />
+      </File>
+    </Files>
+    <MsgComponents />
+    <JungleFiles />
+  </Mod>
+</TrackingXml>
